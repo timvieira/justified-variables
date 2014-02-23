@@ -1,302 +1,323 @@
 
-Same-size-word-o-ymns
+same-size-word-o-ymns
 =====================
 
 List of related words of the same length. We're particularly interested in word
 clusters with contrasting meanings, part-whole, antonyms, and frequently
-associated programming and math jargon. Standard abbreviations are gladly
+associated programming / math jargon. Standard abbreviations are gladly
 accepted.
 
 I like it when my source code lines up nicely, don't you? Let's put an end to
 ugly pairings such as open/close, alpha/beta, begin/end. Let's see more of
 push/pull, success/failure, nodes/edges!
 
- * Greek letters
 
-    - mu
-      nu
-      xi
-      pi
+Greek letters
+=============
+```
+- mu
+  nu
+  xi
+  pi
 
-    - eta
-      rho
-      tau
-      phi
-      chi
-      psi
+- eta
+  rho
+  tau
+  phi
+  chi
+  psi
 
-    - zeta
-      beta
-      iota
+- zeta
+  beta
+  iota
 
-    - omega
-      sigma
+- omega
+  sigma
 
-    - alpha
-      gamma
-      delta
-      theta
-      kappa
+- alpha
+  gamma
+  delta
+  theta
+  kappa
 
-    - lambda  :-(
+- lambda  (is to loneliest Greek letter)
 
-    - epsilon
-      omicron
-      upsilon
+- epsilon
+  omicron
+  upsilon
+```
 
- * 3
+3
+===
+```
+- bar   (as in "Y bar" and "Y hat")
+  hat
 
-    - bar   (as in "Y bar" and "Y hat")
-      hat
+- min
+  max
 
-    - min
-      max
+- std
+  avg
 
-    - std
-      avg
+- was
+  now
 
-    - was
-      now
+- old
+  new
 
-    - old
-      new
+- top
+  bot (popular in logic programming)
 
-    - top
-      bot
+- car
+  cdr (as in lisp)
 
-    - tic
-      toc
+- tic
+  toc
 
-    - day
-      eve
+- day
+  eve
+```
 
- * 4 ("knuckle tattoos")
+4 ("knuckle tattoos")
+=====================
+```
+- love
+  hate
 
-    - love
-      hate
+- hope
+  fear
 
-    - hope
-      fear
+- slow
+  fast
 
-    - slow
-      fast
+- push
+  pull
 
-    - push
-      pull
+- this
+  that
 
-    - this
-      that
+- node
+  edge
 
-    - node
-      edge
+- some
+  none
 
-    - some
-      none
+- head
+  body
 
-    - head
-      body
+- head
+  tail
+  (last,list)
 
-    - head
-      tail
-      (last)
+- cons
+  sonc
 
-    - cons
-      sonc
+- flip
+  flop
 
-    - flip
-      flop
+- sink
+  swim
 
-    - sink
-      swim
+- todo
+  done
 
-    - todo
-      done
+- prev
+  next
+  curr
 
-    - prev
-      next
-      curr
+- shut
+  open
+  (seek,file,read)
 
-    - shut
-      open
+- dawn
+  dusk
 
-      (seek,file,read)
+- redo
+  undo
 
-    - dawn
-      dusk
+- step
+  stay
+  stop
 
-    - redo
-      undo
+- seek
+  hide
+  find
+  hunt
 
-    - step
-      stay
-      stop
+- geek
+  jock
+  dork
 
-    - seek
-      hide
-      find
-      hunt
+- more
+  less
 
-    - geek
-      jock
-      dork
+- pass
+  fail
 
-    - more
-      less
+- done
+  init
+  halt
 
-    - pass
-      fail
+- door
+  knob
 
-    - done
-      init
-      halt
+- skim
+  read
 
-    - door
-      knob
+- warm
+  cool/cold
 
-    - skim
-      read
+- evil
+  good
 
-    - warm
-      cool/cold
+- foot
+  hand
 
-    - evil
-      good
+- kind
+  mean
+  nice
 
-    - foot
-      hand
+- firm
+  soft
 
-    - kind
-      mean
-      nice
+- rich
+  poor
+```
 
-    - firm
-      soft
+5
+===
+```
+- split
+  merge
 
-    - rich
-      poor
+- shape
+  scale
 
- * 5
+- guess
+  truth
 
-    - split
-      merge
+- inner
+  outer
 
-    - shape
-      scale
+- small
+  large
 
-    - guess
-      truth
+- above
+  below
 
-    - inner
-      outer
+- sleek
+  hairy
 
-    - small
-      large
+- drive
+  crash
 
-    - above
-      below
+- spicy
+  bland
 
-    - sleek
-      hairy
+- slide
+  stick
 
-    - drive
-      crash
+- store
+  flush
 
-    - spicy
-      bland
+- flora
+  fauna
 
-    - slide
-      stick
+- salty
+  sweet
 
-    - store
-      flush
+- pants
+  shirt
+  skirt
+  jeans
+  shoes
+  socks
 
-    - flora
-      fauna
+- robot
+  human
+```
 
-    - salty
-      sweet
+6
+===
+```
+- source
+  target
 
-    - pants
-      shirt
-      skirt
-      jeans
-      shoes
-      socks
+- scarce
+  plenty
 
-    - robot
-      human
+- smooth
+  gritty
 
- * 6
+- target
+  expect
+  actual
 
-    - source
-      target
+- insane
+  placid
 
-    - scarce
-      plenty
+- before
+  within
 
-    - smooth
-      gritty
+- chunky
+  smooth
 
-    - target
-      expect
-      actual
+- ignore
+  invite
 
-    - insane
-      placid
+- resume
+  desist
+```
 
-    - before
-      within
+7
+===
+```
+- calorie
+  protein
 
-    - chunky
-      smooth
+- reverse
+  forward
 
-    - ignore
-      invite
+- success
+  failure
 
-    - resume
-      desist
+- enqueue
+  dequeue
 
- * 7
+- respond
+  decline
 
-    - calorie
-      protein
+- mustard
+  ketchup
+```
 
-    - reverse
-      forward
+8
+===
+```
+- proposal
+  sampling
 
-    - success
-      failure
+- alphabet
+  features
 
-    - enqueue
-      dequeue
+- incoming
+  outgoing
+```
 
-    - respond
-      decline
+10
+===
+```
+- conclusion
+  motivation
+  experiment
 
-    - mustard
-      ketchup
+- randomized
+  repeatable
+```
 
- * 8
-
-    - proposal
-      sampling
-
-    - alphabet
-      features
-
-    - incoming
-      outgoing
-
- * 10
-
-    - conclusion
-      motivation
-      experiment
-
-    - randomized
-      repeatable
-
- * 11
-
-    - variational
-      expectation
+11
+===
+```
+- variational
+  expectation
+```
