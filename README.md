@@ -84,6 +84,10 @@ Greek letters
 - love
   hate
 
+- loss
+  gain
+  risk
+
 - hope
   fear
 
@@ -124,6 +128,9 @@ Greek letters
 - prev
   next
   curr
+
+- save
+  load
 
 - shut
   open
@@ -243,6 +250,9 @@ Greek letters
 - source
   target
 
+- linear
+  affine
+
 - scarce
   plenty
 
@@ -252,6 +262,7 @@ Greek letters
 - target
   expect
   actual
+  result (testing jargon)
 
 - insane
   placid
@@ -302,6 +313,9 @@ Greek letters
 
 - incoming
   outgoing
+
+- expected
+  achieved
 ```
 
 10
