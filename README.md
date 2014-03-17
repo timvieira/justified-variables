@@ -53,6 +53,10 @@ Greek letters
 - bar   (as in "Y bar" and "Y hat")
   hat
 
+- foo
+  bar
+  baz
+
 - min
   max
 
@@ -249,6 +253,9 @@ Greek letters
 ```
 - source
   target
+
+- frozen
+  liquid (financial jargon)
 
 - linear
   affine
