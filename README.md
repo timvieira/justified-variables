@@ -200,6 +200,10 @@ Greek letters
 5
 ===
 ```
+- numpy
+  scipy
+  pylab (I <3 scientific programming in python)
+
 - split
   merge
 
