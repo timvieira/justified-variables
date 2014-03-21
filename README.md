@@ -204,6 +204,10 @@ Greek letters
   scipy
   pylab (I <3 scientific programming in python)
 
+- right
+  wrong
+  total
+
 - split
   merge
 
