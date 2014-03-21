@@ -254,6 +254,9 @@ Greek letters
   shoes
   socks
 
+- these
+  those
+
 - robot
   human
 ```
