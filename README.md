@@ -212,6 +212,10 @@ Greek letters
   (force)
   kbest (k-best approximation to v. brute-force enumeration)
 
+- right
+  wrong
+  total
+
 - split
   merge
 
@@ -257,6 +261,9 @@ Greek letters
   jeans
   shoes
   socks
+
+- these
+  those
 
 - robot
   human
@@ -337,6 +344,9 @@ Greek letters
 
 - expected
   achieved
+
+- combined
+  separate
 ```
 
 10
