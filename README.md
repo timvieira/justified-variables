@@ -200,9 +200,17 @@ Greek letters
 5
 ===
 ```
+-   nodes
+  + edges
+  = graph
+
 - numpy
   scipy
   pylab (I <3 scientific programming in python)
+
+- brute
+  (force)
+  kbest (k-best approximation to v. brute-force enumeration)
 
 - split
   merge
