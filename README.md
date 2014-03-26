@@ -272,6 +272,12 @@ Greek letters
 6
 ===
 ```
+-  accept
+   reject
+  (sample)
+  (kernel)
+  (random)
+
 -   prefix
   + suffix
   = string
