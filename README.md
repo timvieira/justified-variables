@@ -91,6 +91,12 @@ Greek letters
   gain
   risk
 
+- tree
+  item
+  span
+  node
+  edge (parsing terminology)
+
 - hope
   fear
 
@@ -200,6 +206,10 @@ Greek letters
 5
 ===
 ```
+-   child
+  | adult
+  = human
+
 -   nodes
   + edges
   = graph
@@ -274,9 +284,9 @@ Greek letters
 ```
 -  accept
    reject
-  (sample)
   (kernel)
   (random)
+  (sample)
 
 -   prefix
   + suffix
