@@ -295,8 +295,9 @@ Greek letters
 - source
   target
 
-- frozen
-  liquid (financial jargon)
+-   frozen
+  | liquid
+  = assets (financial jargon)
 
 - linear
   affine
