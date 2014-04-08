@@ -348,6 +348,9 @@ Greek letters
 
 - mustard
   ketchup
+
+- summary
+  details
 ```
 
 8
