@@ -220,7 +220,7 @@ Greek letters
 
 - brute
   (force)
-  kbest (k-best approximation to v. brute-force enumeration)
+  kbest (k-best approximation v. brute-force enumeration)
 
 - right
   wrong
