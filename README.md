@@ -49,6 +49,9 @@ Greek letters
 3
 ===
 ```
+- get
+  set/put  (common in method names)
+
 - bar   (as in "Y bar" and "Y hat")
   hat
 
@@ -352,6 +355,9 @@ Greek letters
 
 - summary
   details
+
+- provide
+  require
 ```
 
 8
