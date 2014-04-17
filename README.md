@@ -1,4 +1,4 @@
-same-size-word-o-ymns
+same-size-word-o-nyms
 =====================
 
 List of related words of the same length. We're particularly interested in word
