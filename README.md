@@ -335,6 +335,9 @@ Greek letters
   inject
   delete
   remove
+
+- create
+  unlink (file objects)
 ```
 
 7
