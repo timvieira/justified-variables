@@ -330,6 +330,11 @@ Greek letters
 
 - resume
   desist
+
+- insert
+  inject
+  delete
+  remove
 ```
 
 7
