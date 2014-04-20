@@ -335,6 +335,9 @@ Greek letters
 7
 ===
 ```
+- softmax
+  sigmoid (used in probability and neural networks)
+
 - calorie
   protein
 
