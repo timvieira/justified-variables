@@ -210,6 +210,10 @@ Greek letters
 
 - ping
   pong
+
+- play
+  seek
+  stop (in media files or streams)
 ```
 
 5
