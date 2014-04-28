@@ -204,6 +204,12 @@ Greek letters
 
 - fake
   real
+
+- tick
+  tock
+
+- ping
+  pong
 ```
 
 5
