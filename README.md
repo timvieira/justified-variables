@@ -366,6 +366,9 @@ Greek letters
 - single
   double
   triple
+
+- ignite
+  defuse
 ```
 
 7
