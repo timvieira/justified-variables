@@ -404,6 +404,12 @@ Greek letters
 - advance
   retreat
   regroup
+
+- collect
+  scatter
+  diffuse
+  dissect
+  isolate
 ```
 
 8
