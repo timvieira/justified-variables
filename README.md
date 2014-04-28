@@ -290,6 +290,10 @@ Greek letters
 
 - robot
   human
+
+- throw
+  catch
+  fetch (exception handling, or dogs)
 ```
 
 6
