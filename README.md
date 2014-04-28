@@ -410,6 +410,10 @@ Greek letters
   diffuse
   dissect
   isolate
+
+- abandon
+  restore
+  recover (sessions)
 ```
 
 8
