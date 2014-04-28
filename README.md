@@ -400,6 +400,10 @@ Greek letters
 
 - provide
   require
+
+- advance
+  retreat
+  regroup
 ```
 
 8
