@@ -412,6 +412,13 @@ Greek letters
   separate
 ```
 
+9
+===
+```
+- originate
+  terminate
+```
+
 10
 ===
 ```
