@@ -301,6 +301,9 @@ Greek letters
 - throw
   catch
   fetch (exception handling, or dogs)
+
+- raise
+  lower
 ```
 
 6
