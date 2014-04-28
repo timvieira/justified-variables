@@ -356,6 +356,10 @@ Greek letters
 
 - create
   unlink (file objects)
+
+- single
+  double
+  triple
 ```
 
 7
