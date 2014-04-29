@@ -373,6 +373,10 @@ Greek letters
 - server
   client
   subnet (network jargon)
+
+- public
+  secret
+  shared (encryption keys)
 ```
 
 7
