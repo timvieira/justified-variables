@@ -369,6 +369,10 @@ Greek letters
 
 - ignite
   defuse
+
+- server
+  client
+  subnet (network jargon)
 ```
 
 7
