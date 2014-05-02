@@ -332,9 +332,6 @@ Greek letters
 - scarce
   plenty
 
-- smooth
-  gritty
-
 - target
   expect
   actual
@@ -347,6 +344,7 @@ Greek letters
   within
 
 - chunky
+  gritty
   smooth
 
 - ignore
@@ -379,9 +377,11 @@ Greek letters
   shared (encryption keys)
 
 - number
+ (double)
   scalar
   vector
   matrix
+  tensor
 ```
 
 7
