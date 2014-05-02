@@ -377,6 +377,11 @@ Greek letters
 - public
   secret
   shared (encryption keys)
+
+- number
+  scalar
+  vector
+  matrix
 ```
 
 7
