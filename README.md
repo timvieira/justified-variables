@@ -470,5 +470,7 @@ Greek letters
 ===
 ```
 - variational
+  statistical
   expectation
+  observation
 ```
