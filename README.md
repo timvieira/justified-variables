@@ -304,6 +304,12 @@ Greek letters
 
 - raise
   lower
+
+- notes
+  ideas
+  learn
+  links
+  todos (headings of my todo list)
 ```
 
 6
@@ -446,6 +452,9 @@ Greek letters
 
 - combined
   separate
+
+- chowdown
+  showdown
 ```
 
 9
@@ -461,6 +470,8 @@ Greek letters
 - conclusion
   motivation
   experiment
+  background
+  references
 
 - randomized
   repeatable
@@ -471,4 +482,11 @@ Greek letters
 ```
 - variational
   expectation
+```
+
+12
+===
+```
+- bibliography
+  introduction
 ```
