@@ -93,6 +93,7 @@ Greek letters
 - loss
   gain
   risk
+  cost
 
 - tree
   item
@@ -438,6 +439,11 @@ Greek letters
 8
 ===
 ```
+- function
+  gradient
+  Jacobian
+  calculus (but not Hessian)
+
 - proposal
   sampling
 
