@@ -434,6 +434,9 @@ Greek letters
 - abandon
   restore
   recover (sessions)
+
+- greater
+  reduced
 ```
 
 8
