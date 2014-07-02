@@ -464,6 +464,9 @@ Greek letters
 
 - chowdown
   showdown
+
+- inferior
+  superior (rather than worse/better)
 ```
 
 9
