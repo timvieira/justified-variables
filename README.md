@@ -437,6 +437,9 @@ Greek letters
 
 - greater
   reduced
+
+- gradual
+  stepped
 ```
 
 8
