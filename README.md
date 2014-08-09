@@ -443,6 +443,9 @@ Greek letters
 
 - gradual
   stepped
+
+- prevail
+  succumb
 ```
 
 8
