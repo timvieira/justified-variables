@@ -222,6 +222,9 @@ Greek letters
 
 - rise
   fall
+
+- fair
+  foul (as in baseball)
 ```
 
 5
