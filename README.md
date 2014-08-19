@@ -439,6 +439,9 @@ Greek letters
 8
 ===
 ```
+- increase
+  decrease
+
 - function
   gradient
   Jacobian
