@@ -222,6 +222,9 @@ Greek letters
 
 - rise
   fall
+
+- fair
+  foul (as in baseball)
 ```
 
 5
@@ -434,6 +437,15 @@ Greek letters
 - abandon
   restore
   recover (sessions)
+
+- greater
+  reduced
+
+- gradual
+  stepped
+
+- prevail
+  succumb
 ```
 
 8
@@ -464,6 +476,9 @@ Greek letters
 
 - chowdown
   showdown
+
+- inferior
+  superior (rather than worse/better)
 ```
 
 9
