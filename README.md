@@ -486,6 +486,10 @@ Greek letters
 ```
 - originate
   terminate
+
+- increased
+  decreased
+  unchanged
 ```
 
 10
