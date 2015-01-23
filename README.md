@@ -49,6 +49,22 @@ Greek letters
 3
 ===
 ```
+- add
+  sub
+  mul
+  div
+  neg
+  pow
+  mod
+  inv
+  abs
+  cmp (numeric operations)
+ (int)
+
+- and
+  xor
+  not (Boolean operations, missing 'or')
+
 - get
   set/put  (common in method names)
 
@@ -75,7 +91,7 @@ Greek letters
   bot (popular in logic programming)
 
 - car
-  cdr (as in lisp)
+  cdr (lisp's list manipulations)
 
 - tic
   toc
@@ -230,6 +246,10 @@ Greek letters
 5
 ===
 ```
+- major
+  minor
+  equal
+
 -   child
   | adult
   = human
@@ -451,6 +471,14 @@ Greek letters
 8
 ===
 ```
+- positive
+  negative
+ (unsigned)
+
+- majority
+  minority
+  equality
+
 - increase
   decrease
 
