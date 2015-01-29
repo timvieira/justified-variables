@@ -246,6 +246,9 @@ Greek letters
 5
 ===
 ```
+- began
+  ended
+
 - major
   minor
   equal
@@ -417,6 +420,9 @@ Greek letters
 7
 ===
 ```
+- started
+  stopped
+
 - softmax
   sigmoid (used in probability and neural networks)
 
