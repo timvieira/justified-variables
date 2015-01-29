@@ -420,6 +420,9 @@ Greek letters
 7
 ===
 ```
+- started
+  stopped
+
 - softmax
   sigmoid (used in probability and neural networks)
 
