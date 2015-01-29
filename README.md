@@ -246,6 +246,9 @@ Greek letters
 5
 ===
 ```
+- began
+  ended
+
 - major
   minor
   equal
