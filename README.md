@@ -128,9 +128,11 @@ Greek letters
 
 - this
   that
+  self
 
 - node
   edge
+  path
 
 - some
   none
@@ -140,6 +142,7 @@ Greek letters
 
 - head
   tail
+  rest
   (last,list)
 
 - cons
@@ -160,6 +163,7 @@ Greek letters
 
 - save
   load
+  exit
 
 - shut
   open
@@ -174,6 +178,7 @@ Greek letters
 - step
   stay
   stop
+  skip
 
 - seek
   hide
@@ -347,6 +352,13 @@ Greek letters
   (kernel)
   (random)
   (sample)
+
+- accept
+  reject
+  filter
+  permit
+  detect
+  ignore
 
 -   prefix
   + suffix
