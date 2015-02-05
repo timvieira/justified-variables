@@ -1,55 +1,31 @@
-same-size-word-o-nyms
-=====================
-
-List of related words of the same length. We're particularly interested in word
-clusters with contrasting meanings, part-whole, antonyms, and frequently
-associated programming / math jargon. Standard abbreviations are gladly
-accepted.
+Justified Variables
+===================
 
 I like it when my source code lines up nicely, don't you? Let's put an end to
-ugly pairings such as open/close, alpha/beta, begin/end. Let's see more of
-push/pull, success/failure, nodes/edges!
+ugly pairings, such as `open/close`, `alpha/beta`, `vertex/edge`. Let's see more
+of `open/shut`, `node/edge`, `push/pull`!
 
-
-Greek letters
-=============
 ```
-- mu
-  nu
-  xi
-  pi
-
-- eta
-  rho
-  tau
-  phi
-  chi
-  psi
-
-- zeta
-  beta
-  iota
-
-- omega
-  sigma
-
-- alpha
-  gamma
-  delta
-  theta
-  kappa
-
-- lambda  (is to loneliest Greek letter)
-
-- epsilon
-  omicron
-  upsilon
+justified
+variables
 ```
+
+are clusters of related words of the same length (`justified` in fixed-width
+font). We're particularly interested in word clusters with contrasting meanings,
+part-whole, antonyms, and frequently associated programming / math jargon
+(`variables`). Standard abbreviations are gladly accepted.
 
 3
 ===
 ```
-- add
+- foo (when you just don't care)
+  bar
+  baz
+ (goo)
+ (boo)
+ (bla)
+
+- add (numeric operations)
   sub
   mul
   div
@@ -58,25 +34,23 @@ Greek letters
   mod
   inv
   abs
-  cmp (numeric operations)
+  cmp
  (int)
 
-- and
+- and  (Boolean operations, missing 'or')
   xor
-  not (Boolean operations, missing 'or')
+  not
 
 - get
-  set/put  (common in method names)
+  set
+  put  (common in method names)
 
-- bar   (as in "Y bar" and "Y hat")
+- bar  (as in "\bar{y}"and "\hat{y}")
   hat
-
-- foo
-  bar
-  baz
 
 - min
   max
+ (mid)
 
 - std
   avg
@@ -114,6 +88,8 @@ Greek letters
 - tree
   item
   span
+  rule
+  word
   node
   edge (parsing terminology)
 
@@ -133,14 +109,15 @@ Greek letters
   edge
 
 - some
-  none
+  none (the option type)
 
 - head
   body
 
 - head
   tail
-  (last,list)
+  last
+  list
 
 - cons
   sonc
@@ -160,6 +137,7 @@ Greek letters
 
 - save
   load
+ (dump)
 
 - shut
   open
@@ -171,9 +149,11 @@ Greek letters
 - redo
   undo
 
-- step
+- stop
+  play
+  step
   stay
-  stop
+  seek
 
 - seek
   hide
@@ -228,10 +208,6 @@ Greek letters
 - ping
   pong
 
-- play
-  seek
-  stop (in media files or streams)
-
 - unit
   pair
   quad
@@ -248,7 +224,9 @@ Greek letters
 ```
 - major
   minor
-  equal
+ (equal)
+ (sharp)
+ (music)
 
 -   child
   | adult
@@ -263,12 +241,14 @@ Greek letters
   pylab (I <3 scientific programming in python)
 
 - brute
-  (force)
+ (force)
   kbest (k-best approximation v. brute-force enumeration)
 
-- right
-  wrong
-  total
+-  right
+ + wrong
+ = total
+  (tests)
+  (cases)
 
 - split
   merge
@@ -281,6 +261,9 @@ Greek letters
 
 - inner
   outer
+
+- upper
+  lower
 
 - small
   large
@@ -452,11 +435,12 @@ Greek letters
   scatter
   diffuse
   dissect
-  isolate
+  isolate (plotting?)
 
 - abandon
   restore
-  recover (sessions)
+  recover
+ (session)
 
 - greater
   reduced
@@ -497,7 +481,9 @@ Greek letters
   outgoing
 
 - expected
+  actually
   achieved
+ (unittest)
 
 - combined
   separate
@@ -514,6 +500,9 @@ Greek letters
 ```
 - originate
   terminate
+
+- inclusive
+  exclusive
 
 - increased
   decreased
@@ -547,4 +536,39 @@ Greek letters
 ```
 - bibliography
   introduction
+```
+
+Greek letters
+=============
+```
+- mu
+  nu
+  xi
+  pi
+
+- eta
+  rho
+  tau
+  phi
+  chi
+  psi
+
+- zeta
+  beta
+  iota
+
+- omega
+  sigma
+
+- alpha
+  gamma
+  delta
+  theta
+  kappa
+
+- lambda  (is to loneliest Greek letter)
+
+- epsilon
+  omicron
+  upsilon
 ```
