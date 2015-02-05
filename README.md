@@ -48,7 +48,7 @@ gladly accepted.
 - get  [Common in method names / prefixes]
   set/put
 
-- bar  (as in "\bar{y}" and "\hat{y}")
+- bar  [as in \bar{y} and \hat{y}]
   hat
 
 - min
@@ -108,8 +108,8 @@ gladly accepted.
 - node
   edge
 
-- some
-  none (the option type)
+- some  [the option type]
+  none
 
 - head
   body
@@ -215,7 +215,7 @@ gladly accepted.
 - rise
   fall
 
-- fair  [baseball]
+- fair  [Baseball]
   foul
 ```
 
@@ -340,11 +340,11 @@ gladly accepted.
 - source
   target
 
--   frozen
+-   frozen  [Financial jargon]
   | liquid
-  = assets (financial jargon)
+  = assets
 
-- linear
+- linear [Functions properties]
   affine
   convex
  (smooth)
@@ -361,10 +361,10 @@ gladly accepted.
 - scarce
   plenty
 
-- target
+- target  [Testing jargon]
   expect
   actual
-  result (testing jargon)
+  result
 
 - insane
   placid
@@ -387,8 +387,8 @@ gladly accepted.
   delete
   remove
 
-- create
-  unlink (file objects)
+- create  [File objects]
+  unlink
 
 - single
   double
@@ -397,27 +397,28 @@ gladly accepted.
 - ignite
   defuse
 
-- server
+- server  [Networking jargon]
   client
-  subnet (network jargon)
+  subnet
 
-- public
+- public  [Encryption keys]
   secret
-  shared (encryption keys)
+  shared
 
-- number
- (double)
-  scalar
+- scalar  [Linear algebra types]
   vector
   matrix
   tensor
+ (number)
+ (double)
 ```
 
 7
 ===
 ```
-- softmax
-  sigmoid (used in probability and neural networks)
+- softmax  [probability and neural networks]
+  sigmoid
+  rectify
 
 - calorie
   protein
@@ -447,11 +448,11 @@ gladly accepted.
   retreat
   regroup
 
-- collect
+- collect  [Plotting?]
   scatter
   diffuse
   dissect
-  isolate (plotting?)
+  isolate
 
 - abandon
   restore
@@ -479,7 +480,8 @@ gladly accepted.
   minimize
   optimize
  (criteria)
- (function, but not objective)
+ (function)
+ (but not objective)
 
 - majority
   minority
@@ -520,7 +522,7 @@ gladly accepted.
 9
 ===
 ```
-- justified  (In case you didn't get it.)
+- justified  [In case you didn't get it.]
   variables
 
 - injective
@@ -541,7 +543,7 @@ gladly accepted.
 10
 ===
 ```
-- surjective
+- surjective  [Properties of relations]
   one-to-one (= injective)
   invertible (= bijective)
 
