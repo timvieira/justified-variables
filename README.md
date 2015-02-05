@@ -5,15 +5,11 @@ I like it when my source code lines up nicely, don't you? Let's put an end to
 ugly pairings, such as `open/close`, `alpha/beta`, `vertex/edge`. Let's see more
 of `open/shut`, `node/edge`, `push/pull`!
 
-```
-justified
-variables
-```
-
-are clusters of related words of the same length (`justified` in fixed-width
-font). We're particularly interested in word clusters with contrasting meanings,
-part-whole, antonyms, and frequently associated programming / math jargon
-(`variables`). Standard abbreviations are gladly accepted.
+`justified variables` are clusters of related words of the same length
+(`justified` in fixed-width font). We're particularly interested in word
+clusters with contrasting meanings, part-whole, antonyms, and frequently
+associated programming / math jargon (`variables`). Standard abbreviations are
+gladly accepted.
 
 3
 ===
@@ -222,6 +218,10 @@ part-whole, antonyms, and frequently associated programming / math jargon
 5
 ===
 ```
+- fixed  (Something we care a lot about here.)
+  width
+  fonts
+
 - major
   minor
  (equal)
