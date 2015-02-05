@@ -14,14 +14,14 @@ gladly accepted.
 3
 ===
 ```
-- foo (when you just don't care)
+- foo  [When you just don't care]
   bar
   baz
  (goo)
  (boo)
  (bla)
 
-- add (numeric operations)
+- add  [Numeric operations]
   sub
   mul
   div
@@ -33,15 +33,22 @@ gladly accepted.
   cmp
  (int)
 
-- and  (Boolean operations, missing 'or')
+- sin  [Trigonometry]
+  cos
+  tan
+
+- and  [Boolean operations]
   xor
   not
+  (but not or)
 
-- get
-  set
-  put  (common in method names)
+- top (⊤)  [Aliases for true and false; popular in logic programming]
+  bot (⊥)
 
-- bar  (as in "\bar{y}"and "\hat{y}")
+- get  [Common in method names / prefixes]
+  set/put
+
+- bar  (as in "\bar{y}" and "\hat{y}")
   hat
 
 - min
@@ -57,13 +64,10 @@ gladly accepted.
 - old
   new
 
-- top
-  bot (popular in logic programming)
+- car  [lisp's list manipulations]
+  cdr
 
-- car
-  cdr (lisp's list manipulations)
-
-- tic
+- tic  [Goes the clock, timing code]
   toc
 
 - day
