@@ -341,6 +341,17 @@ gladly accepted.
 
 - linear
   affine
+  convex
+ (smooth)
+ (but not concave,
+          monotone,
+          constant,
+          monotonic,
+          quadratic,
+          piecewise,
+          polynomial,
+          continuous,
+          differentiable)
 
 - scarce
   plenty
@@ -459,6 +470,12 @@ gladly accepted.
   negative
  (unsigned)
 
+- maximize
+  minimize
+  optimize
+ (criteria)
+ (function, but not objective)
+
 - majority
   minority
   equality
@@ -498,6 +515,13 @@ gladly accepted.
 9
 ===
 ```
+- justified  (In case you didn't get it.)
+  variables
+
+- injective
+  bijective
+  (but not surjective)
+
 - originate
   terminate
 
@@ -512,6 +536,10 @@ gladly accepted.
 10
 ===
 ```
+- surjective
+  one-to-one (= injective)
+  invertible (= bijective)
+
 - conclusion
   motivation
   experiment
@@ -525,6 +553,9 @@ gladly accepted.
 11
 ===
 ```
+- exponential
+  logarithmic
+
 - variational
   statistical
   expectation
