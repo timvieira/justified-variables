@@ -81,13 +81,13 @@ gladly accepted.
   risk
   cost
 
-- tree
+- tree  [Parsing terminology]
   item
   span
   rule
   word
   node
-  edge (parsing terminology)
+  edge
 
 - hope
   fear
@@ -211,16 +211,21 @@ gladly accepted.
 - rise
   fall
 
-- fair
-  foul (as in baseball)
+- fair  [baseball]
+  foul
 ```
 
 5
 ===
 ```
-- fixed  (Something we care a lot about here.)
+- fixed  [Something we care a lot about here]
   width
   fonts
+
+- later  [Scheduling tasks]
+  never
+  maybe  (instead of 'someday')
+ (tasks)
 
 - major
   minor
@@ -236,13 +241,9 @@ gladly accepted.
   + edges
   = graph
 
-- numpy
+- numpy  [I <3 scientific programming in python]
   scipy
-  pylab (I <3 scientific programming in python)
-
-- brute
- (force)
-  kbest (k-best approximation v. brute-force enumeration)
+  pylab
 
 -  right
  + wrong
@@ -305,18 +306,18 @@ gladly accepted.
 - robot
   human
 
-- throw
+- throw  [Exception handling, or dogs]
   catch
-  fetch (exception handling, or dogs)
+  fetch
 
 - raise
   lower
 
-- notes
+- notes  [Headings of my todo list]
   ideas
   learn
   links
-  todos (headings of my todo list)
+  todos
 ```
 
 6
