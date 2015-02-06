@@ -21,6 +21,12 @@ gladly accepted.
  (boo)
  (bla)
 
+- pro
+  con
+
+- yay  [Instead of yes/no?]
+  nay
+
 - add  [Numeric operations]
   sub
   mul
