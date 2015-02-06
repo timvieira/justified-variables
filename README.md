@@ -31,11 +31,12 @@ gladly accepted.
   inv
   abs
   cmp
- (int)
-
-- sin  [Trigonometry]
+  exp
+  log
+  sin
   cos
   tan
+ (int)
 
 - and  [Boolean operations]
   xor
