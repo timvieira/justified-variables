@@ -334,15 +334,20 @@ gladly accepted.
 6
 ===
 ```
--  accept
-   reject
-  (kernel)
-  (random)
-  (sample)
+- encode
+  decode
+ (solver)
+ (reader)
 
--   prefix
-  + suffix
-  = string
+- accept
+  reject
+ (kernel)
+ (random)
+ (sample)
+
+-  prefix
+ + suffix
+ = string
 
 - source
   target
