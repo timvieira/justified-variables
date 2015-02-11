@@ -575,6 +575,10 @@ gladly accepted.
 - exponential
   logarithmic
 
+- specificity (=precision)
+  sensitivity (=recall)
+ (error_types)
+
 - variational
   statistical
   expectation
