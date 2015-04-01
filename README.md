@@ -71,6 +71,12 @@ gladly accepted.
 - old
   new
 
+- err  [Common when testing numerical code]
+  tol
+  eps
+  rel
+  abs
+
 - car  [lisp's list manipulations]
   cdr
 
@@ -428,6 +434,10 @@ gladly accepted.
 7
 ===
 ```
+- explore
+  exploit
+ (dilemma)
+
 - softmax  [probability and neural networks]
   sigmoid
   rectify
@@ -488,12 +498,16 @@ gladly accepted.
   negative
  (unsigned)
 
+- adjacent
+  opposite
+
 - maximize
   minimize
   optimize
  (criteria)
  (function)
- (but not objective)
+ (but not objective; can use past tense
+          optimized)
 
 - majority
   minority
@@ -536,6 +550,10 @@ gladly accepted.
 ```
 - justified  [In case you didn't get it.]
   variables
+
+- annotated  [Semi-supervised learning]
+  unlabeled
+ (bootstrap)
 
 - injective
   bijective
