@@ -543,6 +543,9 @@ gladly accepted.
 
 - inferior
   superior (rather than worse/better)
+
+- position
+  velocity
 ```
 
 9
