@@ -11,6 +11,11 @@ clusters with contrasting meanings, part-whole, antonyms, and frequently
 associated programming / math jargon (`variables`). Standard abbreviations are
 gladly accepted.
 
+2
+===
+- hi
+  lo  ["high" and "low" points in an interval]
+
 3
 ===
 ```
@@ -105,6 +110,9 @@ gladly accepted.
   word
   node
   edge
+
+- user
+  pass
 
 - hope
   fear
@@ -230,6 +238,10 @@ gladly accepted.
 
 - fair  [Baseball]
   foul
+
+- verb
+  noun
+ (prep) [but not det, adj, adv]
 ```
 
 5
@@ -436,7 +448,7 @@ gladly accepted.
 ```
 - explore
   exploit
- (dilemma)
+ (dilemma) [reinforcement learning]
 
 - softmax  [probability and neural networks]
   sigmoid
@@ -498,8 +510,11 @@ gladly accepted.
   negative
  (unsigned)
 
+- username
+  password
+
 - adjacent
-  opposite
+  opposite (but not hypotenuse or SOHCAHTOA)
 
 - maximize
   minimize
@@ -520,6 +535,14 @@ gladly accepted.
   gradient
   Jacobian
   calculus (but not Hessian)
+
+- observed
+  expected (gradient of an exponential family)
+
+- position
+  velocity
+ (dynamics)
+ (simulate)
 
 - proposal
   sampling
@@ -564,6 +587,12 @@ gladly accepted.
 
 - inclusive
   exclusive
+
+- exploding  [Deep learning folklore]
+  vanishing
+ (gradients)
+ (recurrent)
+ (neuralnet)
 
 - increased
   decreased
