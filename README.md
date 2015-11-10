@@ -441,6 +441,10 @@ gladly accepted.
   tensor
  (number)
  (double)
+
+- repeat
+  return
+  finish
 ```
 
 7
