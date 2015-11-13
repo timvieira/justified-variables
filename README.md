@@ -141,7 +141,7 @@ gladly accepted.
   list
 
 - cons
-  sonc
+  snoc
 
 - flip
   flop
