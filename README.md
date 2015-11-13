@@ -13,8 +13,10 @@ gladly accepted.
 
 2
 ===
+```
 - hi
   lo  ["high" and "low" points in an interval]
+```
 
 3
 ===
