@@ -507,6 +507,9 @@ gladly accepted.
 
 - prevail
   succumb
+
+- precede
+  succeed
 ```
 
 8
@@ -603,6 +606,9 @@ gladly accepted.
 - increased
   decreased
   unchanged
+
+- preceding
+  following
 ```
 
 10
