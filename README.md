@@ -580,6 +580,10 @@ gladly accepted.
 - justified  [In case you didn't get it.]
   variables
 
+- predicate
+  arguments
+ (relations)
+
 - annotated  [Semi-supervised learning]
   unlabeled
  (bootstrap)
