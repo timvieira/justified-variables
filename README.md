@@ -72,6 +72,9 @@ gladly accepted.
 - std
   avg
 
+- mean
+  mode
+
 - was
   now
 
