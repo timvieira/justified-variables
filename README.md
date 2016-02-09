@@ -72,9 +72,6 @@ gladly accepted.
 - std
   avg
 
-- mean
-  mode
-
 - was
   now
 
@@ -95,6 +92,10 @@ gladly accepted.
 
 - day
   eve
+
+- dep  [Dependency parsing]
+  gov
+  rel
 ```
 
 4 ("knuckle tattoos")
@@ -247,6 +248,19 @@ gladly accepted.
 - verb
   noun
  (prep) [but not det, adj, adv]
+
+- mean
+  mode
+
+- east
+  west
+
+- dawn
+  dusk
+
+- snow
+  rain
+  hail
 ```
 
 5
@@ -352,6 +366,17 @@ gladly accepted.
   learn
   links
   todos
+
+- white
+  black
+
+- north
+  south
+
+- harpo
+  chico
+  zeppo
+  gummo
 ```
 
 6
@@ -513,6 +538,9 @@ gladly accepted.
 
 - precede
   succeed
+
+- morning
+  evening
 ```
 
 8
