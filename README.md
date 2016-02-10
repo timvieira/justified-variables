@@ -100,6 +100,9 @@ gladly accepted.
 - love
   hate
 
+- n00b
+  l33t
+
 - loss
   gain
   risk
@@ -510,6 +513,9 @@ gladly accepted.
 
 - precede
   succeed
+
+- Viterbi [semirings]
+  Boolean
 ```
 
 8
