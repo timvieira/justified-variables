@@ -514,6 +514,9 @@ gladly accepted.
 - precede
   succeed
 
+- morning
+  evening
+
 - Viterbi [semirings]
   Boolean
 ```
