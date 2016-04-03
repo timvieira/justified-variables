@@ -357,6 +357,9 @@ gladly accepted.
 6
 ===
 ```
+- reward
+  punish
+
 - encode
   decode
  (solver)
@@ -446,6 +449,12 @@ gladly accepted.
   tensor
  (number)
  (double)
+
+- crunch
+  squish
+  squash
+  splash
+  splosh
 
 - repeat
   return
