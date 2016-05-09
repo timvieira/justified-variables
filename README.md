@@ -533,6 +533,9 @@ gladly accepted.
 8
 ===
 ```
+- question
+  response
+
 - positive
   negative
  (unsigned)
@@ -548,8 +551,7 @@ gladly accepted.
   optimize
  (criteria)
  (function)
- (but not objective; can use past tense
-          optimized)
+ (but not objective)
 
 - majority
   minority
