@@ -162,12 +162,16 @@ gladly accepted.
   curr
 
 - save
-  load
  (dump)
+  load
+ (read)
+ (file)
 
 - shut
   open
-  (seek,file,read)
+ (seek)
+ (read)
+ (file)
 
 - dawn
   dusk
@@ -181,10 +185,10 @@ gladly accepted.
   stay
   seek
 
-- seek
-  hide
-  find
+- hide
+  seek
   hunt
+  find
 
 - geek
   jock
@@ -365,7 +369,10 @@ gladly accepted.
  (solver)
  (reader)
 
-- accept
+- arrive
+  depart
+
+- accept   [MCMC algorithms]
   reject
  (kernel)
  (random)
