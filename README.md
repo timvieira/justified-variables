@@ -265,6 +265,9 @@ gladly accepted.
   maybe  (instead of 'someday')
  (tasks)
 
+- noisy
+  clean
+
 - major
   minor
  (equal)
