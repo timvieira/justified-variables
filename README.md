@@ -553,6 +553,12 @@ gladly accepted.
 - username
   password
 
+- analytic (e.g., analytic
+  estimate        solution
+                  compared
+               to sampling
+                  estimate)
+
 - adjacent
   opposite (but not hypotenuse or SOHCAHTOA)
 
