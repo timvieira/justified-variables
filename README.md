@@ -5,6 +5,8 @@ I like it when my source code lines up nicely, don't you? Let's put an end to
 ugly pairings, such as `open/close`, `alpha/beta`, `vertex/edge`. Let's see more
 of `open/shut`, `node/edge`, `push/pull`!
 
+These typographic constraints can make coding feel like a crossword puzzle.
+
 `justified variables` are clusters of related words of the same length
 (`justified` in fixed-width font). We're particularly interested in word
 clusters with contrasting meanings, part-whole, antonyms, and frequently
@@ -265,7 +267,13 @@ gladly accepted.
   maybe  (instead of 'someday')
  (tasks)
 
-- noisy
+- start  [Instead of ``start/stop`` or ``begin/end``]
+  cease
+
+- alpha  [Biblical beginning and end]
+  omega
+
+- noisy  [signal processing]
   clean
 
 - major
@@ -545,6 +553,9 @@ gladly accepted.
 ```
 - question
   response
+
+- document
+  sentence
 
 - positive
   negative
