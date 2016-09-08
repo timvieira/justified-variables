@@ -7,6 +7,12 @@ of `open/shut`, `node/edge`, `push/pull`!
 
 These typographic constraints can make coding feel like a crossword puzzle.
 
+```
+coding
+x-word
+puzzle
+```
+
 `justified variables` are clusters of related words of the same length
 (`justified` in fixed-width font). We're particularly interested in word
 clusters with contrasting meanings, part-whole, antonyms, and frequently
