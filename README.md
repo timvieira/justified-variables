@@ -110,6 +110,10 @@ gladly accepted.
   risk
   cost
 
+- gold  [= the_truth]
+  pred  [= predicted]
+ (auto) [= automatic]
+
 - tree  [Parsing terminology]
   item
   span
