@@ -679,6 +679,9 @@ gladly accepted.
   one-to-one (= injective)
   invertible (= bijective)
 
+- excitation
+  inhibition
+
 - conclusion
   motivation
   experiment
