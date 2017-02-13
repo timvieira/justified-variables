@@ -385,6 +385,13 @@ gladly accepted.
 - reward
   punish
 
+- reward   [Reinforcement learning]
+  action
+  policy
+  (but not state
+           trace/history/trajectory
+           episode)
+
 - encode
   decode
  (solver)
@@ -701,6 +708,9 @@ gladly accepted.
 - specificity (=precision)
   sensitivity (=recall)
  (error_types)
+
+- intensional [terms from deductive databases]
+  extensional
 
 - variational
   statistical
