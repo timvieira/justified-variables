@@ -494,6 +494,11 @@ gladly accepted.
 - repeat
   return
   finish
+
+- spring
+  summer
+  autumn
+  winter
 ```
 
 7
