@@ -310,6 +310,9 @@ gladly accepted.
   (tests)
   (cases)
 
+- token  [natural language processing. don't use words/labels]
+  label
+
 - split
   merge
 
