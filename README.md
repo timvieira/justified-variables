@@ -312,6 +312,7 @@ gladly accepted.
 
 - token  [natural language processing. don't use words/labels]
   label
+  topic  [for unsupervised :-)]
 
 - split
   merge
