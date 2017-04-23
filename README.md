@@ -1,9 +1,18 @@
 Justified Variables
 ===================
 
-I like it when my source code lines up nicely, don't you? Let's put an end to
-ugly pairings, such as `open/close`, `alpha/beta`, `vertex/edge`. Let's see more
-of `open/shut`, `node/edge`, `push/pull`!
+I like it when my source code lines up nicely, don't you?
+
+```
+make
+your
+code
+look
+nice
+```
+
+Let's put an end to ugly pairings, such as `open/close`, `alpha/beta`,
+`vertex/edge`. Let's see more of `open/shut`, `node/edge`, `push/pull`!
 
 These typographic constraints can make coding feel like a crossword puzzle.
 
@@ -18,6 +27,8 @@ puzzle
 clusters with contrasting meanings, part-whole, antonyms, and frequently
 associated programming / math jargon (`variables`). Standard abbreviations are
 gladly accepted.
+
+
 
 2
 ===
