@@ -430,6 +430,10 @@ gladly accepted.
 - source
   target
 
+- inputs
+  target    [e.g., learning a function: R^n -> n]
+
+
 -   frozen  [Financial jargon]
   | liquid
   = assets
@@ -633,6 +637,7 @@ gladly accepted.
   gradient
   Jacobian
   calculus (but not Hessian)
+ (variable)
 
 - observed
   expected (gradient of an exponential family)
@@ -671,6 +676,9 @@ gladly accepted.
 ```
 - justified  [In case you didn't get it.]
   variables
+
+- hindsight
+  foresignt
 
 - predicate
   arguments
