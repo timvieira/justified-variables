@@ -786,7 +786,7 @@ Greek letters
   theta
   kappa
 
-- lambda  (is to loneliest Greek letter)
+- lambda  (is the loneliest Greek letter)
 
 - epsilon
   omicron
