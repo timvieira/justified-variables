@@ -293,6 +293,9 @@ gladly accepted.
 - start  [Instead of ``start/stop`` or ``begin/end``]
   cease
 
+- tasty
+  nasty
+
 - alpha  [Biblical beginning and end]
   omega
 
@@ -624,7 +627,8 @@ gladly accepted.
   optimize
  (criteria)
  (function)
- (but not objective)
+ (suchthat) <- instead of "subjectto"
+ (but not objective or constraint/condition)
 
 - majority
   minority
@@ -655,6 +659,9 @@ gladly accepted.
 
 - incoming
   outgoing
+
+- constant
+  variable
 
 - expected
   actually
@@ -721,6 +728,11 @@ gladly accepted.
 
 - excitation
   inhibition
+
+- consequent  [dependency graphs]
+  antecedent
+ [dependency]
+ [downstream]
 
 - conclusion
   motivation
