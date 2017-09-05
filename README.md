@@ -687,13 +687,12 @@ gladly accepted.
 - hindsight
   foresignt
 
+- completed
+  remaining
+
 - predicate
   arguments
  (relations)
-
-- annotated  [Semi-supervised learning]
-  unlabeled
- (bootstrap)
 
 - injective
   bijective
@@ -705,18 +704,23 @@ gladly accepted.
 - inclusive
   exclusive
 
-- exploding  [Deep learning folklore]
-  vanishing
- (gradients)
- (recurrent)
- (neuralnet)
-
 - increased
   decreased
   unchanged
 
 - preceding
   following
+
+- annotated  [Semi-supervised learning]
+  unlabeled
+ (bootstrap)
+
+- exploding  [Deep learning folklore]
+  vanishing
+ (gradients)
+ (recurrent)
+ (neuralnet)
+
 ```
 
 10
