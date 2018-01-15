@@ -293,6 +293,9 @@ gladly accepted.
 - start  [Instead of ``start/stop`` or ``begin/end``]
   cease
 
+- enter  [Instead of `enter/exit`]
+  leave
+
 - tasty
   nasty
 
@@ -365,6 +368,9 @@ gladly accepted.
 
 - store
   flush
+
+- slope   [Lines]
+  angle
 
 - flora
   fauna
@@ -645,6 +651,10 @@ gladly accepted.
 
 - observed
   expected (gradient of an exponential family)
+
+- features  [machine learning terms]
+  examples
+ (learning)
 
 - position
   velocity
