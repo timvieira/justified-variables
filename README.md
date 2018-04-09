@@ -302,6 +302,9 @@ gladly accepted.
 - alpha  [Biblical beginning and end]
   omega
 
+- began  [Instead of start/end, if past tense is appropriate.]
+  ended
+
 - noisy  [signal processing]
   clean
 
