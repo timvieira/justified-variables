@@ -711,7 +711,7 @@ gladly accepted.
   bijective
   (but not surjective)
 
-- originate
+- originate  [Instead of begin/end; start/end]
   terminate
 
 - inclusive
@@ -727,6 +727,12 @@ gladly accepted.
 - annotated  [Semi-supervised learning]
   unlabeled
  (bootstrap)
+
+- typically
+  sometimes
+  everytime
+ (nowayjosé)
+ (neverever)
 
 - exploding  [Deep learning folklore]
   vanishing
