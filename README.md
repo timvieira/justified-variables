@@ -172,6 +172,9 @@ gladly accepted.
   tail
   last
   list
+  
+- orig
+  term
 
 - cons
   snoc
