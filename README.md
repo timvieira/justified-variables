@@ -692,6 +692,9 @@ gladly accepted.
 
 - inferior
   superior (rather than worse/better)
+
+- commence
+  complete
 ```
 
 9
