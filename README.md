@@ -535,6 +535,10 @@ gladly accepted.
   summer
   autumn
   winter
+
+- former
+  middle
+  latter
 ```
 
 7
