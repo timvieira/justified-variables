@@ -55,6 +55,9 @@ gladly accepted.
 - yay  [Instead of yes/no?]
   nay
 
+- win  [Video games]
+  die
+
 - add  [Numeric operations]
   sub
   mul
