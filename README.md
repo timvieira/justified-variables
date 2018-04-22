@@ -172,6 +172,9 @@ gladly accepted.
   tail
   last
   list
+  
+- orig
+  term
 
 - cons
   snoc
@@ -535,6 +538,10 @@ gladly accepted.
   summer
   autumn
   winter
+
+- former
+  middle
+  latter
 ```
 
 7
@@ -695,6 +702,9 @@ gladly accepted.
 
 - inferior
   superior (rather than worse/better)
+
+- commence
+  complete
 ```
 
 9
