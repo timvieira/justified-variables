@@ -544,6 +544,9 @@ gladly accepted.
   exploit
  (dilemma) [reinforcement learning]
 
+- grammar
+  lexicon
+
 - softmax  [probability and neural networks]
   sigmoid
   rectify
