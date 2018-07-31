@@ -451,6 +451,8 @@ gladly accepted.
 - inputs
   target    [e.g., learning a function: R^n -> n]
 
+- lookup    [data structures methods]
+  update
 
 -   frozen  [Financial jargon]
   | liquid
