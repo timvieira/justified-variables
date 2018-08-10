@@ -172,7 +172,7 @@ gladly accepted.
   tail
   last
   list
-  
+
 - orig
   term
 
@@ -553,6 +553,15 @@ gladly accepted.
 - explore
   exploit
  (dilemma) [reinforcement learning]
+
+- explore  [bonus reinforcement learning]
+  exploit
+  rewards
+  actions
+  bandits
+  learner
+  weights  [(contextual) bandits, EXP3/EXP4]
+  experts
 
 - grammar
   lexicon
