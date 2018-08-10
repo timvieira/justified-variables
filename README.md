@@ -453,6 +453,7 @@ gladly accepted.
 
 - lookup    [data structures methods]
   update
+  insert
 
 -   frozen  [Financial jargon]
   | liquid
@@ -642,6 +643,9 @@ gladly accepted.
                   compared
                to sampling
                   estimate)
+
+- explicit
+  implicit
 
 - adjacent
   opposite (but not hypotenuse or SOHCAHTOA)
