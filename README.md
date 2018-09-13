@@ -435,6 +435,9 @@ gladly accepted.
 - arrive
   depart
 
+- gossip
+  gospel
+
 - accept   [MCMC algorithms]
   reject
  (kernel)
