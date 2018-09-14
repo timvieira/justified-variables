@@ -662,6 +662,11 @@ gladly accepted.
 - adjacent
   opposite (but not hypotenuse or SOHCAHTOA)
 
+- practice
+  appraise
+  consider
+  evaluate
+
 - maximize
   minimize
   optimize
