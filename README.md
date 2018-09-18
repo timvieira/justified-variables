@@ -555,7 +555,10 @@ gladly accepted.
 ```
 - explore
   exploit
- (dilemma) [reinforcement learning]
+ (dilemma)  [reinforcement learning]
+
+- teacher
+  student
 
 - explore  [bonus reinforcement learning]
   exploit
