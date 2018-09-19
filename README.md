@@ -282,6 +282,9 @@ gladly accepted.
 - verb
   noun
  (prep) [but not det, adj, adv]
+
+- sans (without)
+  avec (with)
 ```
 
 5
