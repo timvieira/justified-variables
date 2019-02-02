@@ -78,7 +78,7 @@ gladly accepted.
 - and  [Boolean operations]
   xor
   not
-  (but not or)
+  ior  [= inclusive or]
 
 - top (⊤)  [Aliases for true and false; popular in logic programming]
   bot (⊥)
