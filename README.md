@@ -662,6 +662,9 @@ gladly accepted.
 - explicit
   implicit
 
+- beginner
+  advanced
+
 - adjacent
   opposite (but not hypotenuse or SOHCAHTOA)
 
