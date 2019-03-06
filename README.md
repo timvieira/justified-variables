@@ -78,7 +78,7 @@ gladly accepted.
 - and  [Boolean operations]
   xor
   not
-  (but not or)
+  ior  [= inclusive or]
 
 - top (⊤)  [Aliases for true and false; popular in logic programming]
   bot (⊥)
@@ -282,6 +282,9 @@ gladly accepted.
 - verb
   noun
  (prep) [but not det, adj, adv]
+
+- sans (without)
+  avec (with)
 ```
 
 5
