@@ -551,6 +551,11 @@ gladly accepted.
 - former
   middle
   latter
+
+- random
+  sorted
+ (stream)
+
 ```
 
 7
