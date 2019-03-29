@@ -547,6 +547,7 @@ gladly accepted.
   summer
   autumn
   winter
+ (season)
 
 - former
   middle
