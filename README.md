@@ -52,7 +52,7 @@ gladly accepted.
 - pro
   con
 
-- yay  [Instead of yes/no?]
+- yae/yay  [Instead of yes/no?]
   nay
 
 - win  [Video games]
@@ -116,6 +116,9 @@ gladly accepted.
 
 - day
   eve
+
+- dry
+  wet
 ```
 
 4 ("knuckle tattoos")
@@ -210,6 +213,9 @@ gladly accepted.
 - redo
   undo
 
+- move
+  stay
+
 - stop
   play
   step
@@ -217,6 +223,7 @@ gladly accepted.
   seek
 
 - hide
+  show
   seek
   hunt
   find
@@ -227,6 +234,9 @@ gladly accepted.
 
 - more
   less
+
+- loud
+  soft
 
 - pass
   fail
@@ -263,11 +273,24 @@ gladly accepted.
 - fake
   real
 
+- idle
+  busy
+ (work)
+
+- lady
+  lord
+
+- east
+  west
+
 - tick
   tock
 
 - ping
   pong
+
+- bear  [stock market]
+  bull
 
 - unit
   pair
@@ -278,6 +301,22 @@ gladly accepted.
 
 - fair  [Baseball]
   foul
+
+- home
+  away
+ (game)
+
+- dead
+  live
+
+- tame
+  wild
+
+- give
+  take
+
+- fire
+  hire
 
 - verb
   noun
@@ -293,6 +332,9 @@ gladly accepted.
 - fixed  [Something we care a lot about here]
   width
   fonts
+
+- fresh
+  stale
 
 - later  [Scheduling tasks]
   never
@@ -358,6 +400,9 @@ gladly accepted.
   outer
 
 - upper
+  lower
+
+- raise
   lower
 
 - small
@@ -437,6 +482,9 @@ gladly accepted.
 
 - arrive
   depart
+
+- better
+  worsen
 
 - gossip
   gospel
@@ -659,6 +707,9 @@ gladly accepted.
   negative
  (unsigned)
 
+- conjunct
+  disjunct
+
 - username
   password
 
@@ -793,6 +844,13 @@ gladly accepted.
  (gradients)
  (recurrent)
  (neuralnet)
+
+
+- deductive
+  inductive
+ (databases)
+ (inference)
+ (knowledge)
 
 ```
 
