@@ -896,6 +896,11 @@ gladly accepted.
   statistical
   expectation
   observation
+
+- abstraction
+  application
+ (lambda calc)
+
 ```
 
 12
