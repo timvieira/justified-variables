@@ -359,6 +359,9 @@ gladly accepted.
 - noisy  [signal processing]
   clean
 
+- north
+  south
+
 - major
   minor
  (equal)
@@ -845,7 +848,6 @@ gladly accepted.
  (recurrent)
  (neuralnet)
 
-
 - deductive
   inductive
  (databases)
@@ -897,9 +899,8 @@ gladly accepted.
   expectation
   observation
 
-- abstraction
+- abstraction [the two operations of the λ calculus
   application
- (lambda calc)
 
 ```
 
