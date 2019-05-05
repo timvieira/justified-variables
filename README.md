@@ -322,6 +322,9 @@ gladly accepted.
   noun
  (prep) [but not det, adj, adv]
 
+- from  [Instead of begining/end start/finish]
+  upto
+
 - sans (without)
   avec (with)
 ```
@@ -344,17 +347,20 @@ gladly accepted.
 - start  [Instead of ``start/stop`` or ``begin/end``]
   cease
 
-- enter  [Instead of `enter/exit`]
-  leave
-
-- tasty
-  nasty
+- first  [Instead of ``start/stop`` or ``begin/end``]
+  final
 
 - alpha  [Biblical beginning and end]
   omega
 
+- enter  [Instead of `enter/exit`]
+  leave
+
 - began  [Instead of start/end, if past tense is appropriate.]
   ended
+
+- tasty
+  nasty
 
 - noisy  [signal processing]
   clean
@@ -808,6 +814,9 @@ gladly accepted.
 - hindsight
   foresignt
 
+- diagnosis
+  treatment
+
 - completed
   remaining
 
@@ -879,6 +888,7 @@ gladly accepted.
 
 - randomized
   repeatable
+
 ```
 
 11
