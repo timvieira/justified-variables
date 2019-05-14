@@ -484,9 +484,11 @@ gladly accepted.
 - reward   [Reinforcement learning]
   action
   policy
-  (but not state
-           trace/history/trajectory
-           episode)
+ (oracle)  [Imitation learning]
+ (expert)
+ (but not state
+          trace/history/trajectory
+          episode)
 
 - encode
   decode
