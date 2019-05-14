@@ -339,6 +339,10 @@ gladly accepted.
 - fresh
   stale
 
+- stack  [Transition-based parsing]
+  queue
+ (parse)
+
 - later  [Scheduling tasks]
   never
   maybe  (instead of 'someday')
@@ -816,6 +820,9 @@ gladly accepted.
 
 - diagnosis
   treatment
+
+- synthetic
+  realistic
 
 - completed
   remaining
