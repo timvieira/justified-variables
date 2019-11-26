@@ -625,6 +625,10 @@ gladly accepted.
 7
 ===
 ```
+- defunct
+  current
+  updated
+  
 - explore
   exploit
  (dilemma)  [reinforcement learning]
