@@ -174,6 +174,7 @@ gladly accepted.
 - head
   tail
   last
+  init
   list
 
 - orig
@@ -231,6 +232,7 @@ gladly accepted.
 - geek
   jock
   dork
+  nerd
 
 - more
   less
@@ -922,7 +924,7 @@ gladly accepted.
   expectation
   observation
 
-- abstraction [the two operations of the λ calculus
+- abstraction [the two operations of the λ calculus]
   application
 
 ```
