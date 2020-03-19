@@ -119,6 +119,11 @@ gladly accepted.
 
 - dry
   wet
+  
+- src
+  trg
+  tgt
+  dst
 ```
 
 4 ("knuckle tattoos")
