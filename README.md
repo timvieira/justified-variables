@@ -181,7 +181,7 @@ gladly accepted.
 - lady
   lord
 
-- head
+- head/init
   tail/rear
   last
   list
@@ -253,6 +253,7 @@ gladly accepted.
 - geek
   jock
   dork
+  nerd
 
 - more
   less
@@ -656,6 +657,10 @@ gladly accepted.
 7
 ===
 ```
+- defunct
+  current
+  updated
+  
 - explore
   exploit
  (dilemma)  [reinforcement learning]
@@ -958,7 +963,7 @@ gladly accepted.
   expectation
   observation
 
-- abstraction [the two operations of the λ calculus
+- abstraction [the two operations of the λ calculus]
   application
 
 ```
