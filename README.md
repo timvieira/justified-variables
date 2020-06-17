@@ -58,6 +58,9 @@ gladly accepted.
 - win  [Video games]
   die
 
+- mom
+  dad
+
 - add  [Numeric operations]
   sub
   mul
@@ -127,6 +130,10 @@ gladly accepted.
 - love
   hate
 
+- have
+  lack
+ (miss)
+
 - n00b
   l33t
 
@@ -171,8 +178,11 @@ gladly accepted.
 - head
   body
 
+- lady
+  lord
+
 - head
-  tail
+  tail/rear
   last
   list
 
@@ -195,11 +205,17 @@ gladly accepted.
   next
   curr
 
+- hard
+  soft
+
 - save
  (dump)
   load
  (read)
  (file)
+
+- file  [ organization ]
+  pile
 
 - shut
   open
@@ -216,6 +232,9 @@ gladly accepted.
 - move
   stay
 
+- full
+  thin
+
 - stop
   play
   step
@@ -224,9 +243,12 @@ gladly accepted.
 
 - hide
   show
+
+- hide
   seek
   hunt
   find
+  lose
 
 - geek
   jock
@@ -245,13 +267,16 @@ gladly accepted.
   init
   halt
 
+- tame
+  wild
+
 - door
   knob
 
 - skim
   read
 
-- warm
+- warm/heat
   cool/cold
 
 - evil
@@ -259,6 +284,8 @@ gladly accepted.
 
 - foot
   hand
+  head
+  body
 
 - kind
   mean
@@ -276,9 +303,6 @@ gladly accepted.
 - idle
   busy
  (work)
-
-- lady
-  lord
 
 - east
   west
@@ -308,9 +332,6 @@ gladly accepted.
 
 - dead
   live
-
-- tame
-  wild
 
 - give
   take
@@ -524,6 +545,9 @@ gladly accepted.
   update
   insert
 
+- waxing
+  waning
+
 -   frozen  [Financial jargon]
   | liquid
   = assets
@@ -620,6 +644,13 @@ gladly accepted.
   sorted
  (stream)
 
+- mother
+  father
+  sister
+ [family]
+ [member]
+ (but not brother)
+
 ```
 
 7
@@ -641,8 +672,14 @@ gladly accepted.
   weights  [(contextual) bandits, EXP3/EXP4]
   experts
 
+- pinning  [Term I've used to instead of to force/eliminate a decision]
+  pruning
+
 - grammar
   lexicon
+
+- general  [cases]
+  special
 
 - softmax  [probability and neural networks]
   sigmoid
@@ -897,6 +934,9 @@ gladly accepted.
 
 - randomized
   repeatable
+
+- simplicity
+  complexity
 
 ```
 
