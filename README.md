@@ -82,6 +82,9 @@ gladly accepted.
   xor
   not
   ior  [= inclusive or]
+  
+- all  [quantifiers]
+  any
 
 - top (⊤)  [Aliases for true and false; popular in logic programming]
   bot (⊥)
