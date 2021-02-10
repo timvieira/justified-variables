@@ -811,10 +811,10 @@ gladly accepted.
 - grammar
   lexicon
 
-- general  [cases]
+- general  [Cases]
   special
 
-- softmax  [probability and neural networks]
+- softmax  [Neural networks]
   sigmoid
   rectify
 
@@ -919,8 +919,8 @@ gladly accepted.
                to sampling
                   estimate)
 
-- explicit
-  implicit
+- implicit
+  explicit
 
 - interior
   exterior
@@ -1012,9 +1012,6 @@ gladly accepted.
 - strength
   weakness
 
-- confident
-  diffident
-
 - chowdown
   showdown
 
@@ -1072,6 +1069,9 @@ gladly accepted.
 
 - conductor
   insulator
+
+- confident
+  diffident
 
 - predicate
   arguments
@@ -1138,6 +1138,12 @@ gladly accepted.
 - lowercase
   uppercase
 
+- destroyed
+  preserved
+
+- energetic
+  lethargic
+
 ```
 
 10
@@ -1159,7 +1165,7 @@ gladly accepted.
 - appreciate
   depreciate
 
-- consequent  [dependency graphs]
+- consequent  [Dependency graphs]
   antecedent
  [dependency]
  [downstream]
@@ -1179,6 +1185,9 @@ gladly accepted.
 - detractors
  (protesters)
   supporters
+
+- exhalation/expiration  [Breathing]
+  inhalation/aspiration
 
 ```
 
