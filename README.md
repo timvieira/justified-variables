@@ -82,7 +82,7 @@ gladly accepted.
   xor
   not
   ior  [= inclusive or]
-  
+
 - all  [quantifiers]
   any
 
@@ -743,6 +743,9 @@ gladly accepted.
   sorted
  (stream)
 
+- expand
+  reduce
+
 - mother
   father
   sister
@@ -871,6 +874,9 @@ gladly accepted.
 
 - exclude
   include
+
+- incline
+  decline
 
 - explode
   implode
@@ -1048,6 +1054,9 @@ gladly accepted.
 
 - hindsight
   foresignt
+
+- expansion  [Alternative to growth/decay #20]
+  reduction
 
 - diagnosis
   treatment
