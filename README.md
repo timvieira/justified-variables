@@ -136,6 +136,7 @@ gladly accepted.
 - have
   lack
  (miss)
+ (want)
 
 - n00b
   l33t
