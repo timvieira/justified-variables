@@ -125,11 +125,16 @@ gladly accepted.
 
 - dry
   wet
+  
+- src  [Abbr. `source/target`]
+  trg
+  
+- tgt  [Abbrev. `target/destination`]
+  dst
 
-- bid [buy price in a market]
-- ask
-
-
+- bid  [Auction]
+  ask
+ (buy)
 
 - row  [like in a table]
   col
