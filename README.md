@@ -383,6 +383,9 @@ gladly accepted.
   width
   fonts
 
+- query
+- reply
+
 - bless
   curse
 
@@ -398,10 +401,13 @@ gladly accepted.
 - later  [Scheduling tasks]
   never
   maybe  (instead of 'someday')
+  delay
  (tasks)
 
 - start  [Instead of ``start/stop`` or ``begin/end``]
   cease
+ (begin)
+ (belay)
 
 - first  [Instead of ``start/stop`` or ``begin/end`` #7]
   final
@@ -514,6 +520,7 @@ gladly accepted.
 
 - salty
   sweet
+  umami
 
 - heavy
   light
@@ -524,6 +531,7 @@ gladly accepted.
   jeans
   shoes
   socks
+  scarf
 
 - leaky/loose  [Abstractions, bounds, and faucets]
   tight
@@ -900,6 +908,9 @@ gladly accepted.
 
 - incline
   decline
+
+- receive
+  deliver
 
 - explode
   implode
