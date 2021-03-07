@@ -506,6 +506,7 @@ gladly accepted.
 
 - salty
   sweet
+  umami
 
 - heavy
   light
