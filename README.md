@@ -517,6 +517,7 @@ gladly accepted.
   jeans
   shoes
   socks
+  scarf
 
 - leaky/loose  [Abstractions, bounds, and faucets]
   tight
