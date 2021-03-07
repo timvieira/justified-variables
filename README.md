@@ -362,6 +362,9 @@ gladly accepted.
 
 - sans (without)
   avec (with)
+
+- temp
+  perm
 ```
 
 5
