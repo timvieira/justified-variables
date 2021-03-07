@@ -125,6 +125,10 @@ gladly accepted.
 
 - dry
   wet
+
+- bid [buy price in a market] 
+- ask
+
 ```
 
 4 ("knuckle tattoos")
@@ -544,6 +548,9 @@ gladly accepted.
 
 - build
   decay
+
+- payed [traded at the ask price, in FX]
+- given
 ```
 
 6
