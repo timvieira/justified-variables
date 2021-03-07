@@ -129,6 +129,11 @@ gladly accepted.
 - bid [buy price in a market] 
 - ask
 
+
+  
+- row  [like in a table]
+  col
+
 ```
 
 4 ("knuckle tattoos")
@@ -140,6 +145,7 @@ gladly accepted.
 - have
   lack
  (miss)
+ (want)
 
 - n00b
   l33t
@@ -160,6 +166,7 @@ gladly accepted.
   word
   node
   edge
+  leaf
 
 - user
   pass
@@ -363,6 +370,9 @@ gladly accepted.
 
 - sans (without)
   avec (with)
+
+- temp
+  perm
 ```
 
 5
@@ -606,6 +616,7 @@ gladly accepted.
 -  prefix
  + suffix
  = string
+  (middle)
 
 - source
   target
