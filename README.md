@@ -125,10 +125,10 @@ gladly accepted.
 
 - dry
   wet
-  
+
 - src  [Abbr. `source/target`]
   trg
-  
+
 - tgt  [Abbrev. `target/destination`]
   dst
 
@@ -575,7 +575,7 @@ gladly accepted.
 - build
   decay
 
-- payed [traded at the ask price, in FX]
+- payed  [Purchasing, slightly "payed" is a work around for "paid"]
 - given
 ```
 
