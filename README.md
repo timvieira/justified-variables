@@ -159,6 +159,7 @@ gladly accepted.
   word
   node
   edge
+  leaf
 
 - user
   pass
