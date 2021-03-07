@@ -182,6 +182,7 @@ gladly accepted.
 
 - this
   that
+  self
 
 - node
   edge
