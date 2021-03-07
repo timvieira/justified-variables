@@ -125,6 +125,9 @@ gladly accepted.
 
 - dry
   wet
+  
+- row  [like in a table]
+  col
 ```
 
 4 ("knuckle tattoos")
