@@ -571,6 +571,7 @@ gladly accepted.
 
 - mother
   father
+  parent
 
 - forbid
   permit
