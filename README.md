@@ -393,6 +393,7 @@ gladly accepted.
 - later  [Scheduling tasks]
   never
   maybe  (instead of 'someday')
+  delay
  (tasks)
 
 - start  [Instead of ``start/stop`` or ``begin/end``]
