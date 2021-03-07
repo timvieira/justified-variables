@@ -375,6 +375,9 @@ gladly accepted.
   width
   fonts
 
+- query
+- reply
+
 - bless
   curse
 
