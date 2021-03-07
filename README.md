@@ -599,6 +599,7 @@ gladly accepted.
 -  prefix
  + suffix
  = string
+  (middle)
 
 - source
   target
