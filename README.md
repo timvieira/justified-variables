@@ -896,6 +896,9 @@ gladly accepted.
 - incline
   decline
 
+- receive
+  deliver
+
 - explode
   implode
 
