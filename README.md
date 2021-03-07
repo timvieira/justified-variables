@@ -52,11 +52,14 @@ gladly accepted.
 - pro
   con
 
-- yae/yay  [Instead of yes/no?]
+- yea/yae/yay  [Instead of yes/no?]
   nay
 
 - win  [Video games]
   die
+
+- mom
+  dad
 
 - add  [Numeric operations]
   sub
@@ -79,6 +82,9 @@ gladly accepted.
   xor
   not
   ior  [= inclusive or]
+
+- all  [quantifiers]
+  any
 
 - top (⊤)  [Aliases for true and false; popular in logic programming]
   bot (⊥)
@@ -120,10 +126,19 @@ gladly accepted.
 - dry
   wet
   
-- src
+- src  [Abbr. `source/target`]
   trg
-  tgt
+  
+- tgt  [Abbrev. `target/destination`]
   dst
+
+- bid  [Auction]
+  ask
+ (buy)
+
+- row  [like in a table]
+  col
+
 ```
 
 4 ("knuckle tattoos")
@@ -131,6 +146,13 @@ gladly accepted.
 ```
 - love
   hate
+
+- have
+  lack
+ (miss)
+
+- have  [Testing: Alternative for `got/want` and `actual/expected` #21]
+  want
 
 - n00b
   l33t
@@ -151,6 +173,7 @@ gladly accepted.
   word
   node
   edge
+  leaf
 
 - user
   pass
@@ -166,6 +189,7 @@ gladly accepted.
 
 - this
   that
+  self
 
 - node
   edge
@@ -176,8 +200,14 @@ gladly accepted.
 - head
   body
 
-- head
-  tail
+- lady
+  lord
+
+- ride  [Getting from A to B]
+  walk
+
+- head/init
+  tail/rear
   last
   list
 
@@ -200,11 +230,17 @@ gladly accepted.
   next
   curr
 
+- hard
+  soft
+
 - save
  (dump)
   load
  (read)
  (file)
+
+- file  [ organization ]
+  pile
 
 - shut
   open
@@ -221,6 +257,9 @@ gladly accepted.
 - move
   stay
 
+- full
+  thin
+
 - stop
   play
   step
@@ -229,13 +268,16 @@ gladly accepted.
 
 - hide
   show
+- hide
   seek
   hunt
   find
+  lose
 
 - geek
   jock
   dork
+  nerd
 
 - more
   less
@@ -250,13 +292,16 @@ gladly accepted.
   init
   halt
 
+- tame
+  wild
+
 - door
   knob
 
 - skim
   read
 
-- warm
+- warm/heat
   cool/cold
 
 - evil
@@ -264,6 +309,8 @@ gladly accepted.
 
 - foot
   hand
+  head
+  body
 
 - kind
   mean
@@ -273,17 +320,13 @@ gladly accepted.
   soft
 
 - rich
-  poor
+  poor/lean
 
 - fake
   real
 
 - idle
-  busy
- (work)
-
-- lady
-  lord
+  busy/work
 
 - east
   west
@@ -301,7 +344,7 @@ gladly accepted.
   pair
   quad
 
-- rise
+- rise  [Alternative for growth/decay #20]
   fall
 
 - fair  [Baseball]
@@ -313,9 +356,6 @@ gladly accepted.
 
 - dead
   live
-
-- tame
-  wild
 
 - give
   take
@@ -330,8 +370,17 @@ gladly accepted.
 - from  [Instead of begining/end start/finish]
   upto
 
+- maxi
+  mini
+
+- anal  [Thermometer placement]
+  oral
+
 - sans (without)
   avec (with)
+
+- temp
+  perm
 ```
 
 5
@@ -341,22 +390,33 @@ gladly accepted.
   width
   fonts
 
+- query
+- reply
+
+- bless
+  curse
+
 - fresh
   stale
 
-- stack  [Transition-based parsing]
+- birth
+  death
+
+- stack
   queue
- (parse)
 
 - later  [Scheduling tasks]
   never
   maybe  (instead of 'someday')
+  delay
  (tasks)
 
 - start  [Instead of ``start/stop`` or ``begin/end``]
   cease
+ (begin)
+ (belay)
 
-- first  [Instead of ``start/stop`` or ``begin/end``]
+- first  [Instead of ``start/stop`` or ``begin/end`` #7]
   final
 
 - alpha  [Biblical beginning and end]
@@ -365,14 +425,26 @@ gladly accepted.
 - enter  [Instead of `enter/exit`]
   leave
 
-- began  [Instead of start/end, if past tense is appropriate.]
+- began  [Instead of start/end, if past tense is appropriate #7.]
   ended
+
+- fancy
+  plain
+
+- piano  [Musical version of soft/hard]
+  forte
 
 - tasty
   nasty
 
-- noisy  [signal processing]
+- brave
+  timid
+
+- noisy/dirty  [Signal processing]
   clean
+
+- noisy
+  quiet
 
 - north
   south
@@ -408,7 +480,7 @@ gladly accepted.
 - split
   merge
 
-- shape
+- shape  [ Parameters of many probability distributions ]
   scale
 
 - guess
@@ -438,6 +510,9 @@ gladly accepted.
 - spicy
   bland
 
+- black
+  white
+
 - slide
   stick
 
@@ -452,6 +527,10 @@ gladly accepted.
 
 - salty
   sweet
+  umami
+
+- heavy
+  light
 
 - pants
   shirt
@@ -459,9 +538,16 @@ gladly accepted.
   jeans
   shoes
   socks
+  scarf
+
+- leaky/loose  [Abstractions, bounds, and faucets]
+  tight
 
 - these
   those
+
+- relax
+  tense
 
 - robot
   human
@@ -472,12 +558,25 @@ gladly accepted.
 
 - raise
   lower
+ (level)
+
+- rural
+  urban
+
+- stand
+  yield
 
 - notes  [Headings of my todo list]
   ideas
   learn
   links
   todos
+
+- build
+  decay
+
+- payed [traded at the ask price, in FX]
+- given
 ```
 
 6
@@ -500,6 +599,16 @@ gladly accepted.
  (solver)
  (reader)
 
+- export
+  import
+
+- mother
+  father
+  parent
+
+- forbid
+  permit
+
 - arrive
   depart
 
@@ -510,17 +619,27 @@ gladly accepted.
   gospel
 
 - accept   [MCMC algorithms]
-  reject
+  reject/refuse
  (kernel)
  (random)
  (sample)
 
+- affirm
+  negate
+
+- gather
+  spread  [instead of scatter]
+
 -  prefix
  + suffix
  = string
+  (middle)
 
 - source
   target
+
+- abduct   [Biomechanics alternative for away/towards, but I can never remember which is which...]
+  adduct
 
 - inputs
   target    [e.g., learning a function: R^n -> n]
@@ -528,6 +647,9 @@ gladly accepted.
 - lookup    [data structures methods]
   update
   insert
+
+- waxing
+  waning
 
 -   frozen  [Financial jargon]
   | liquid
@@ -550,6 +672,15 @@ gladly accepted.
 - scarce
   plenty
 
+- attach
+  detach
+
+- attack
+  defend
+
+- benign
+  malign
+
 - target  [Testing jargon]
   expect
   actual
@@ -557,6 +688,28 @@ gladly accepted.
 
 - insane
   placid
+
+- better
+  worsen
+
+- danger
+  safety
+
+- junior
+  senior
+
+- partly
+  wholly
+
+- supply
+  demand
+
+- divest
+  invest
+
+- single
+  double
+  triple
 
 - before
   within
@@ -566,7 +719,7 @@ gladly accepted.
   smooth
 
 - ignore
-  invite
+  notice/invite
 
 - resume
   desist
@@ -575,6 +728,9 @@ gladly accepted.
   inject
   delete
   remove
+
+- harden
+  soften
 
 - create  [File objects]
   unlink
@@ -625,21 +781,55 @@ gladly accepted.
   sorted
  (stream)
 
+- expand
+  reduce
+
+- mother
+  father
+  sister
+ [family]
+ [member]
+ (but not brother)
+
 ```
 
 7
 ===
 ```
+- antonym
+  synonym
+
+- clarity
+  opacity
+
 - defunct
   current
   updated
-  
+
 - explore
   exploit
  (dilemma)  [reinforcement learning]
 
 - teacher
   student
+
+- closing   [Finally open/close can be together]
+  opening
+
+- conform
+  deviate
+
+- correct
+  falsify
+
+- consume
+  abstain
+
+- advance  [Another alternative for forward/backward]
+  retreat
+
+- fertile
+  sterile
 
 - explore  [bonus reinforcement learning]
   exploit
@@ -650,10 +840,19 @@ gladly accepted.
   weights  [(contextual) bandits, EXP3/EXP4]
   experts
 
+- offense
+  defense
+
+- pinning  [Term I've used to instead of to force/eliminate a decision]
+  pruning
+
 - grammar
   lexicon
 
-- softmax  [probability and neural networks]
+- general  [Cases]
+  special
+
+- softmax  [Neural networks]
   sigmoid
   rectify
 
@@ -711,6 +910,24 @@ gladly accepted.
 - morning
   evening
 
+- exclude
+  include
+
+- incline
+  decline
+
+- receive
+  deliver
+
+- explode
+  implode
+
+- failing
+  passing
+
+- maximal/maximum
+  minimal/minimum
+
 - Viterbi [semirings]
   Boolean
 ```
@@ -743,8 +960,14 @@ gladly accepted.
                to sampling
                   estimate)
 
-- explicit
-  implicit
+- implicit
+  explicit
+
+- interior
+  exterior
+
+- internal
+  external
 
 - beginner
   advanced
@@ -756,6 +979,13 @@ gladly accepted.
   appraise
   consider
   evaluate
+
+- hardware
+  software
+
+- inclined
+  vertical
+ [climbing]
 
 - maximize
   minimize
@@ -769,8 +999,14 @@ gladly accepted.
   minority
   equality
 
+- monosemy
+  polysemy
+
 - increase
   decrease
+
+- porosity
+  solidity
 
 - function
   gradient
@@ -810,14 +1046,42 @@ gladly accepted.
 - combined
   separate
 
+- absolute
+  relative
+ [position]
+
+- strength
+  weakness
+
 - chowdown
   showdown
 
 - inferior
   superior (rather than worse/better)
 
-- commence
+- abstract
+  concrete
+
+- commence  [Alternatives for start/end #7]
   complete
+
+- backhand
+  forehand
+
+- civilian
+  military
+
+- confined
+  invasive
+
+- dissuade
+  persuade
+ [argument]
+
+- employee
+  employer
+ [jobplace]
+
 ```
 
 9
@@ -829,6 +1093,9 @@ gladly accepted.
 - hindsight
   foresignt
 
+- expansion  [Alternative to growth/decay #20]
+  reduction
+
 - diagnosis
   treatment
 
@@ -837,6 +1104,15 @@ gladly accepted.
 
 - completed
   remaining
+
+- activator
+  inhibitor
+
+- conductor
+  insulator
+
+- confident
+  diffident
 
 - predicate
   arguments
@@ -851,6 +1127,9 @@ gladly accepted.
 
 - inclusive
   exclusive
+
+- increment
+  decrement
 
 - increased
   decreased
@@ -875,11 +1154,36 @@ gladly accepted.
  (recurrent)
  (neuralnet)
 
+- plaintiff
+  defendant
+
+- inflation
+  deflation
+
+- preserved
+  destroyed
+
+- energetic
+  lethargic
+
 - deductive
   inductive
+  abductive
  (databases)
  (inference)
  (knowledge)
+
+- fraternal   [Types of twins]
+  identical
+
+- lowercase
+  uppercase
+
+- destroyed
+  preserved
+
+- energetic
+  lethargic
 
 ```
 
@@ -893,7 +1197,16 @@ gladly accepted.
 - excitation
   inhibition
 
-- consequent  [dependency graphs]
+- accelerate
+  decelerate
+
+- antecedent
+  subsequent
+
+- appreciate
+  depreciate
+
+- consequent  [Dependency graphs]
   antecedent
  [dependency]
  [downstream]
@@ -906,6 +1219,16 @@ gladly accepted.
 
 - randomized
   repeatable
+
+- simplicity
+  complexity
+
+- detractors
+ (protesters)
+  supporters
+
+- exhalation/expiration  [Breathing]
+  inhalation/aspiration
 
 ```
 
@@ -927,7 +1250,7 @@ gladly accepted.
   expectation
   observation
 
-- abstraction [the two operations of the λ calculus
+- abstraction [the two operations of the λ calculus]
   application
 
 ```
