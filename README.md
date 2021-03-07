@@ -398,6 +398,8 @@ gladly accepted.
 
 - start  [Instead of ``start/stop`` or ``begin/end``]
   cease
+ (begin)
+ (belay)
 
 - first  [Instead of ``start/stop`` or ``begin/end`` #7]
   final
