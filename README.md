@@ -126,7 +126,7 @@ gladly accepted.
 - dry
   wet
   
-- row  [As in the table]
+- row  [like in a table]
   col
 ```
 
