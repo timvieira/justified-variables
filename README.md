@@ -126,11 +126,11 @@ gladly accepted.
 - dry
   wet
 
-- bid [buy price in a market] 
+- bid [buy price in a market]
 - ask
 
 
-  
+
 - row  [like in a table]
   col
 
@@ -145,7 +145,9 @@ gladly accepted.
 - have
   lack
  (miss)
- (want)
+
+- have  [Testing: Alternative for `got/want` and `actual/expected` #21]
+  want
 
 - n00b
   l33t
