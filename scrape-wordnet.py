@@ -69,4 +69,22 @@ def antonyms():
 
 
 #hypernyms()
-antonyms()
+#antonyms()
+
+
+def syns(x):
+    for sense in wn.synsets(x):
+        for lemma in sense.lemmas():
+            x = lemma.name()
+            yield x
+
+
+def suggest(x, y):
+    for xx in sorted(set(syns(x)), key=lambda xx: (len(xx), x)):
+        for yy in sorted(set(syns(y))):
+            if len(xx) == len(yy):
+                print(xx, yy)
+
+#suggest('vertices', 'edges')
+#suggest('start', 'stop')
+suggest('grow', 'shrink')

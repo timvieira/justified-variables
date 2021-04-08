@@ -552,9 +552,10 @@ gladly accepted.
 - robot
   human
 
-- throw  [Exception handling, or dogs]
+- throw  [Exception handling, ball sports, dogs]
   catch
   fetch
+ (raise)
 
 - raise
   lower
@@ -935,11 +936,14 @@ gladly accepted.
 8
 ===
 ```
-- business
-  pleasure
+- producer
+  consumer
 
 - question
   response
+
+- business
+  pleasure
 
 - document
   sentence
