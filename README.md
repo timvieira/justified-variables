@@ -37,6 +37,13 @@ gladly accepted.
 ```
 - hi
   lo  ["high" and "low" points in an interval]
+  
+- eq  [ == ]
+  ne  [ != ]
+  le  [ <= ] 
+  lt  [ <  ]
+  gt  [ >  ]
+  ge  [ >= ]
 ```
 
 3
