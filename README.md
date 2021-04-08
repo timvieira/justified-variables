@@ -386,8 +386,8 @@ gladly accepted.
 - sans (without)
   avec (with)
 
-- temp
-  perm
+- temp [also temporary]
+  perm [     permanent]
 ```
 
 5
@@ -1196,6 +1196,9 @@ gladly accepted.
 - energetic
   lethargic
 
+- temporary
+  permanent
+  cacheable
 ```
 
 10
