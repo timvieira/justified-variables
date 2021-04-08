@@ -388,6 +388,10 @@ gladly accepted.
 
 - temp [also temporary]
   perm [     permanent]
+
+- fork [processes or threads]
+  kill
+  reap
 ```
 
 5
