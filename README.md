@@ -146,6 +146,13 @@ gladly accepted.
 - row  [like in a table]
   col
 
+- idx
+  key
+  ptr
+  ref
+  tab
+  tag
+
 ```
 
 4 ("knuckle tattoos")
