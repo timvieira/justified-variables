@@ -1095,6 +1095,7 @@ gladly accepted.
 
 - commence  [Alternatives for start/end #7]
   complete
+  conclude
 
 - backhand
   forehand
