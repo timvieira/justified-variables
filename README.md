@@ -947,6 +947,15 @@ gladly accepted.
 - maximal/maximum
   minimal/minimum
 
+- started
+- stopped
+
+- created   [databases]
+  updated
+  deleted
+ [fetched]  [for read]
+ [visited]
+
 - Viterbi [semirings]
   Boolean
 ```
