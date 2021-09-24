@@ -429,6 +429,9 @@ gladly accepted.
 - stack
   queue
 
+- empty
+  inuse
+
 - later  [Scheduling tasks]
   never
   maybe  (instead of 'someday')
@@ -612,6 +615,16 @@ gladly accepted.
   sleep
   delay
   pause
+
+- photo  [Types of audiovisual media]
+  video
+  audio
+
+- free  [Memory/resource allocation]
+  used
+
+- free  [Pricing]
+  paid
 ```
 
 6
@@ -933,6 +946,9 @@ gladly accepted.
 - provide
   require
 
+- package
+  version
+
 - advance
   retreat
   regroup
@@ -1009,6 +1025,9 @@ gladly accepted.
 
 - readers [Multi-threaded programming]
   writers
+
+- numeric
+  textual
 ```
 
 8
@@ -1170,6 +1189,11 @@ gladly accepted.
   employer
  [jobplace]
 
+- datetime
+  duration
+
+- writable
+  readable
 ```
 
 9
@@ -1279,6 +1303,12 @@ gladly accepted.
 - temporary
   permanent
   cacheable
+
+- iterative
+  recursive
+
+- grayscale
+  fullcolor
 ```
 
 10
@@ -1324,6 +1354,8 @@ gladly accepted.
 - exhalation/expiration  [Breathing]
   inhalation/aspiration
 
+- foreground
+  background
 ```
 
 11
