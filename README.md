@@ -455,10 +455,6 @@ gladly accepted.
 - fancy
   plain
 
-- active  [Component status]
-  unused
-  failed
-
 - piano  [Musical version of soft/hard]
   forte
 
@@ -697,6 +693,9 @@ gladly accepted.
   filter
   length
 
+- active  [Component status]
+  unused
+  failed
 
 - waxing
   waning
