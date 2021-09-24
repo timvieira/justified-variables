@@ -612,9 +612,6 @@ gladly accepted.
   sleep
   delay
   pause
-
-- forall  [ Predicate logic ]
-  exists
 ```
 
 6
@@ -844,6 +841,9 @@ gladly accepted.
 
 - master [Multi-threaded programming]
   worker
+
+- forall  [ Predicate logic ]
+  exists
 ```
 
 7
