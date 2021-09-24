@@ -211,6 +211,12 @@ gladly accepted.
 - some  [the option type]
   none
 
+- only
+  many
+
+- keep
+  drop
+
 - head
   body
 
@@ -423,6 +429,9 @@ gladly accepted.
 - stack
   queue
 
+- empty
+  inuse
+
 - later  [Scheduling tasks]
   never
   maybe  (instead of 'someday')
@@ -606,6 +615,16 @@ gladly accepted.
   sleep
   delay
   pause
+
+- photo  [Types of audiovisual media]
+  video
+  audio
+
+- free  [Memory/resource allocation]
+  used
+
+- free  [Pricing]
+  paid
 ```
 
 6
@@ -676,6 +695,17 @@ gladly accepted.
 - lookup    [data structures methods]
   update
   insert
+  inject
+  delete
+  remove
+  search
+  exists
+  filter
+  length
+
+- active  [Component status]
+  unused
+  failed
 
 - waxing
   waning
@@ -753,11 +783,6 @@ gladly accepted.
 - resume
   desist
 
-- insert
-  inject
-  delete
-  remove
-
 - harden
   soften
 
@@ -778,6 +803,7 @@ gladly accepted.
 - public  [Encryption keys]
   secret
   shared
+  signed
 
 - scalar  [Linear algebra types]
   vector
@@ -828,6 +854,9 @@ gladly accepted.
 
 - master [Multi-threaded programming]
   worker
+
+- forall  [ Predicate logic ]
+  exists
 ```
 
 7
@@ -917,6 +946,9 @@ gladly accepted.
 - provide
   require
 
+- package
+  version
+
 - advance
   retreat
   regroup
@@ -962,6 +994,9 @@ gladly accepted.
 - failing
   passing
 
+- present
+  missing
+
 - maximal/maximum
   minimal/minimum
 
@@ -990,6 +1025,9 @@ gladly accepted.
 
 - readers [Multi-threaded programming]
   writers
+
+- numeric
+  textual
 ```
 
 8
@@ -1068,6 +1106,9 @@ gladly accepted.
 - increase
   decrease
 
+- singular
+  multiple
+
 - porosity
   solidity
 
@@ -1128,6 +1169,8 @@ gladly accepted.
 - commence  [Alternatives for start/end #7]
   complete
   conclude
+  continue
+  postpone
 
 - backhand
   forehand
@@ -1146,6 +1189,11 @@ gladly accepted.
   employer
  [jobplace]
 
+- datetime
+  duration
+
+- writable
+  readable
 ```
 
 9
@@ -1187,7 +1235,9 @@ gladly accepted.
   (but not surjective)
 
 - originate  [Instead of begin/end; start/end]
+  establish
   terminate
+  interrupt
 
 - inclusive
   exclusive
@@ -1237,8 +1287,9 @@ gladly accepted.
  (inference)
  (knowledge)
 
-- fraternal   [Types of twins]
+- different [Value comparison, types of twins]
   identical
+  fraternal
 
 - lowercase
   uppercase
@@ -1252,6 +1303,12 @@ gladly accepted.
 - temporary
   permanent
   cacheable
+
+- iterative
+  recursive
+
+- grayscale
+  fullcolor
 ```
 
 10
@@ -1297,6 +1354,8 @@ gladly accepted.
 - exhalation/expiration  [Breathing]
   inhalation/aspiration
 
+- foreground
+  background
 ```
 
 11
