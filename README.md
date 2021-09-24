@@ -596,6 +596,16 @@ gladly accepted.
 
 - payed  [Purchasing, slightly "payed" is a work around for "paid"]
 - given
+
+- start  [Asynchronous operations]
+  begin
+  abort
+  close
+  await
+  block
+  sleep
+  delay
+  pause
 ```
 
 6
@@ -955,8 +965,16 @@ gladly accepted.
 - maximal/maximum
   minimal/minimum
 
-- started
-- stopped
+- started  [Asynchronous operations]
+  stopped
+
+- pending  [Asynchronous operations]
+  running
+  waiting
+  asleeep
+  blocked
+  aborted
+  timeout
 
 - created   [databases]
   updated
