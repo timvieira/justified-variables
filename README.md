@@ -211,6 +211,12 @@ gladly accepted.
 - some  [the option type]
   none
 
+- only
+  many
+
+- keep
+  drop
+
 - head
   body
 
@@ -449,6 +455,10 @@ gladly accepted.
 - fancy
   plain
 
+- active  [Component status]
+  unused
+  failed
+
 - piano  [Musical version of soft/hard]
   forte
 
@@ -606,6 +616,9 @@ gladly accepted.
   sleep
   delay
   pause
+
+- forall  [ Predicate logic ]
+  exists
 ```
 
 6
@@ -676,6 +689,14 @@ gladly accepted.
 - lookup    [data structures methods]
   update
   insert
+  inject
+  delete
+  remove
+  search
+  exists
+  filter
+  length
+
 
 - waxing
   waning
@@ -753,11 +774,6 @@ gladly accepted.
 - resume
   desist
 
-- insert
-  inject
-  delete
-  remove
-
 - harden
   soften
 
@@ -778,6 +794,7 @@ gladly accepted.
 - public  [Encryption keys]
   secret
   shared
+  signed
 
 - scalar  [Linear algebra types]
   vector
@@ -962,6 +979,12 @@ gladly accepted.
 - failing
   passing
 
+- present
+  missing
+
+- singular
+  multiple
+
 - maximal/maximum
   minimal/minimum
 
@@ -1128,6 +1151,8 @@ gladly accepted.
 - commence  [Alternatives for start/end #7]
   complete
   conclude
+  continue
+  postpone
 
 - backhand
   forehand
@@ -1187,7 +1212,9 @@ gladly accepted.
   (but not surjective)
 
 - originate  [Instead of begin/end; start/end]
+  establish
   terminate
+  interrupt
 
 - inclusive
   exclusive
@@ -1237,8 +1264,9 @@ gladly accepted.
  (inference)
  (knowledge)
 
-- fraternal   [Types of twins]
+- different [Value comparison, types of twins]
   identical
+  fraternal
 
 - lowercase
   uppercase
