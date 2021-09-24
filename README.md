@@ -810,6 +810,14 @@ gladly accepted.
  [member]
  (but not brother)
 
+- signal [Multi-threaded programming]
+  notify
+
+- reader [Multi-threaded programming]
+  writer
+
+- master [Multi-threaded programming]
+  worker
 ```
 
 7
@@ -958,6 +966,12 @@ gladly accepted.
 
 - Viterbi [semirings]
   Boolean
+
+- acquire  [Multi-threaded programming]
+  release
+
+- readers [Multi-threaded programming]
+  writers
 ```
 
 8
@@ -1288,6 +1302,8 @@ gladly accepted.
 - abstraction [the two operations of the λ calculus]
   application
 
+- centralized [Networking]
+  distributed
 ```
 
 12
