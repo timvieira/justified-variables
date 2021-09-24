@@ -982,9 +982,6 @@ gladly accepted.
 - present
   missing
 
-- singular
-  multiple
-
 - maximal/maximum
   minimal/minimum
 
@@ -1090,6 +1087,9 @@ gladly accepted.
 
 - increase
   decrease
+
+- singular
+  multiple
 
 - porosity
   solidity
