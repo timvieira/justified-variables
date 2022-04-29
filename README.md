@@ -619,6 +619,7 @@ gladly accepted.
 - photo  [Types of audiovisual media]
   video
   audio
+  image
 
 - free  [Memory/resource allocation]
   used
