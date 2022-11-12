@@ -858,6 +858,9 @@ gladly accepted.
 
 - forall  [ Predicate logic ]
   exists
+
+- header
+  detail
 ```
 
 7
@@ -1032,6 +1035,10 @@ gladly accepted.
 
 - heading
   content
+
+- summary
+  content
+  details
 ```
 
 8
