@@ -65,6 +65,9 @@ gladly accepted.
 - win  [Video games]
   die
 
+- you  [Video games]
+  foe
+
 - mom
   dad
 
@@ -84,6 +87,11 @@ gladly accepted.
   cos
   tan
  (int)
+
+- new  [Data structure methods]
+  ins
+  upd
+  del
 
 - and  [Boolean operations]
   xor
@@ -216,6 +224,10 @@ gladly accepted.
 
 - keep
   drop
+  take
+
+- fold
+  grow
 
 - head
   body
@@ -246,6 +258,9 @@ gladly accepted.
 - todo
   done
 
+- warn  [Log message types]
+  info
+
 - prev
   next
   curr
@@ -258,6 +273,7 @@ gladly accepted.
   load
  (read)
  (file)
+  show  [Haskell's read counterpart]
 
 - file  [ organization ]
   pile
@@ -326,6 +342,9 @@ gladly accepted.
 
 - evil
   good
+
+- fill       [Homebrew]
+  pour/dump
 
 - foot
   hand
@@ -800,6 +819,7 @@ gladly accepted.
 - server  [Networking jargon]
   client
   subnet
+  stream
 
 - public  [Encryption keys]
   secret
@@ -888,6 +908,9 @@ gladly accepted.
 
 - conform
   deviate
+
+- conjoin   [union/intersection]
+  disjoin
 
 - correct
   falsify
