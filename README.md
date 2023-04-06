@@ -653,6 +653,10 @@ gladly accepted.
 - reward
   punish
 
+- bypass
+  enable
+  status
+
 - reward   [Reinforcement learning]
   action
   policy
