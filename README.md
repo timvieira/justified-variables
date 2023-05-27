@@ -237,6 +237,7 @@ gladly accepted.
 
 - ride  [Getting from A to B]
   walk
+  bike
 
 - head/init
   tail/rear
