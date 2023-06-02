@@ -1067,6 +1067,9 @@ gladly accepted.
 - summary
   content
   details
+
+- predict
+  confirm
 ```
 
 8
