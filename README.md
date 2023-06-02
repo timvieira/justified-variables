@@ -1398,6 +1398,10 @@ gladly accepted.
 
 - foreground
   background
+
+- perpetuate
+  annihilate
+  obliterate
 ```
 
 11
