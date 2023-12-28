@@ -68,6 +68,9 @@ gladly accepted.
 - you  [Video games]
   foe
 
+- lat  [coordinates]
+  lon
+
 - mom
   dad
 
