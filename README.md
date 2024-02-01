@@ -428,6 +428,9 @@ gladly accepted.
 - fork [processes or threads]
   kill
   reap
+
+- check
+  cross
 ```
 
 5
