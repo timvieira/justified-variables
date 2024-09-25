@@ -235,6 +235,9 @@ gladly accepted.
 - head
   body
 
+- head
+  foot
+
 - lady
   lord
 
@@ -892,6 +895,9 @@ gladly accepted.
 
 - header
   detail
+
+- header
+  footer
 ```
 
 7
