@@ -432,8 +432,8 @@ gladly accepted.
   kill
   reap
 
-- check
-  cross
+- pump
+  dump
 ```
 
 5
@@ -655,6 +655,9 @@ gladly accepted.
 
 - free  [Pricing]
   paid
+
+- check
+  cross
 ```
 
 6
