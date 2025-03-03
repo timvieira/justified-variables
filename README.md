@@ -434,6 +434,12 @@ gladly accepted.
 
 - pump
   dump
+
+- free  [Memory/resource allocation]
+  used
+
+- free  [Pricing]
+  paid
 ```
 
 5
@@ -649,12 +655,6 @@ gladly accepted.
   video
   audio
   image
-
-- free  [Memory/resource allocation]
-  used
-
-- free  [Pricing]
-  paid
 
 - check
   cross
