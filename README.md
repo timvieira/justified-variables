@@ -901,6 +901,9 @@ gladly accepted.
 
 - header
   footer
+
+- deasil [clockwise="deasil", counter-clockwise="widdershins"]
+  widder
 ```
 
 7
