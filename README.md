@@ -191,6 +191,9 @@ gladly accepted.
   pred  [= predicted]
  (auto) [= automatic]
 
+- bull
+  bear 
+
 - tree  [Parsing terminology]
   item
   span
