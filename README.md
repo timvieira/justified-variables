@@ -1442,6 +1442,9 @@ gladly accepted.
 
 - centralized [Networking]
   distributed
+
+- bourgeoisie [social class]
+  proletariat
 ```
 
 12
