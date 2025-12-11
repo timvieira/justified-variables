@@ -74,6 +74,9 @@ gladly accepted.
 - mom
   dad
 
+- bid  [auction]
+  ask
+
 - add  [Numeric operations]
   sub
   mul
