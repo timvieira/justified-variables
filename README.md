@@ -780,6 +780,9 @@ gladly accepted.
 - benign
   malign
 
+- listen
+  silent  [and they are anagrams!]
+
 - target  [Testing jargon]
   expect
   actual
