@@ -164,6 +164,19 @@ gladly accepted.
   tab
   tag
 
+- lhs  [Left/right-hand side of assignments, equations]
+  rhs
+
+- pub  [Publish/subscribe messaging pattern]
+  sub
+
+- ack  [Network handshake]
+  nak
+  syn
+
+- dim  [Array/tensor dimensions]
+  len
+
 ```
 
 4 ("knuckle tattoos")
@@ -443,6 +456,33 @@ gladly accepted.
 
 - free  [Pricing]
   paid
+
+- send  [Networking]
+  recv
+
+- copy  [File ops, C++ move semantics]
+  move
+  swap
+
+- mock  [Testing: fake vs real dependencies]
+  real
+  stub
+
+- emit  [Event/signal patterns]
+  sink
+
+- deep  [Copy types, neural networks]
+  flat
+  wide
+
+- join  [SQL, threads, IRC channels]
+  part
+
+- byte  [Data sizes]
+  word
+
+- bold  [Typography/fonts]
+  thin
 ```
 
 5
@@ -661,6 +701,31 @@ gladly accepted.
 
 - check
   cross
+
+- async  [Modern async/await programming]
+  await
+
+- micro  [Scales, services]
+  macro
+
+- parse  [Compiler phases, pretty printing]
+  print
+
+- mount  [Filesystems, React lifecycle]
+  eject
+
+- float  [Number representation]
+  fixed
+
+- depth  [Tree/search dimensions]
+  width
+
+- allow  [Permissions, firewalls]
+  block
+  
+- round  [Numeric rounding]
+  trunc
+  floor
 ```
 
 6
@@ -907,6 +972,27 @@ gladly accepted.
 
 - header
   footer
+
+- assert  [Testing, contracts]
+  refute
+
+- borrow  [Rust ownership, libraries]
+  return
+
+- launch  [Operations lifecycle]
+  cancel
+
+- smooth  [Texture, multigrid methods]
+  coarse
+
+- latent  [ML: latent vs observable variables]
+  patent
+
+- lively  [State descriptions]
+  static
+
+- script  [Web development]
+  markup
 ```
 
 7
@@ -1091,6 +1177,30 @@ gladly accepted.
 
 - predict
   confirm
+
+- encrypt  [Cryptography]
+  decrypt
+
+- verbose  [Logging levels, writing style]
+  concise
+
+- compile  [Code lifecycle]
+  execute
+
+- persist  [Data management]
+  discard
+
+- reading  [I/O gerunds]
+  writing
+
+- visible  [UI, CSS]
+  covered
+  
+- approve  [Code review, PR workflows]
+  dismiss
+
+- mutable  [Type systems, functional programming]
+  settled
 ```
 
 8
@@ -1257,6 +1367,22 @@ gladly accepted.
 
 - writable
   readable
+
+- optional  [API design, type systems]
+  required
+  mandated
+
+- prologue  [Compilers, literature]
+  epilogue
+
+- addition  [CRUD-adjacent operations]
+  deletion
+
+- attached  [State, email, git]
+  detached
+
+- escalate  [Incident severity]
+  diminish
 ```
 
 9
@@ -1372,6 +1498,18 @@ gladly accepted.
 
 - grayscale
   fullcolor
+
+- mandatory  [Compliance, API fields]
+  voluntary
+
+- redundant  [System design]
+  essential
+
+- aggregate  [Data operations]
+  decompose
+
+- oxidation  [Chemistry: redox reactions]
+  reduction
 ```
 
 10
