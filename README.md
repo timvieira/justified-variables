@@ -726,6 +726,9 @@ gladly accepted.
 - round  [Numeric rounding]
   trunc
   floor
+
+- draft  [Document states]
+  final
 ```
 
 6
@@ -1198,6 +1201,9 @@ gladly accepted.
   
 - approve  [Code review, PR workflows]
   dismiss
+
+- request  [HTTP]
+  respond
 ```
 
 8
@@ -1380,6 +1386,9 @@ gladly accepted.
 
 - escalate  [Incident severity]
   diminish
+
+- accepted  [HTTP status, state machines]
+  rejected
 ```
 
 9
@@ -1507,6 +1516,9 @@ gladly accepted.
 
 - oxidation  [Chemistry: redox reactions]
   reduction
+
+- permitted  [Access control]
+  forbidden
 ```
 
 10
