@@ -1198,9 +1198,6 @@ gladly accepted.
   
 - approve  [Code review, PR workflows]
   dismiss
-
-- mutable  [Type systems, functional programming]
-  settled
 ```
 
 8
