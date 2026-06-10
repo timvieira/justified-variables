@@ -807,6 +807,8 @@ gladly accepted.
   exists
   filter
   length
+  append
+  extend
 
 - active  [Component status]
   unused
