@@ -995,6 +995,11 @@ gladly accepted.
 
 - script  [Web development]
   markup
+
+- narrow  [Verb: "~ the conditions"]
+  expand
+  loosen
+ (extend)
 ```
 
 7
