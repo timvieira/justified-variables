@@ -1387,6 +1387,9 @@ gladly accepted.
 
 - escalate  [Incident severity]
   diminish
+
+- civilian
+  military  [or civ/mil]
 ```
 
 9
