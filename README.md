@@ -1514,6 +1514,11 @@ gladly accepted.
 
 - oxidation  [Chemistry: redox reactions]
   reduction
+
+- unchecked
+  validated
+  disproved
+  discarded
 ```
 
 10
