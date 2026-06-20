@@ -1520,6 +1520,7 @@ gladly accepted.
 
 - unchecked
   validated
+  confirmed
   disproved
   discarded
 ```
