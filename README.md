@@ -1601,6 +1601,9 @@ gladly accepted.
 
 - bourgeoisie [social class]
   proletariat
+
+- bureaucracy
+  legislature
 ```
 
 12
